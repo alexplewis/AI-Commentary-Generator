@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+torch
+transformers
+tensorflow
+fastapi
+uvicorn
+openai
+nba_api
