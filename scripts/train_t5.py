@@ -4,6 +4,11 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration, Trainer, Train
 from datasets import Dataset
 from sklearn.model_selection import train_test_split
 
+# Use MPS backend if available (for Apple Silicon)
+device = "cpu"
+
+print(f"✅ Using device: {device}")
+
 # Load data
 df = pd.read_csv("data/training_data.csv").dropna()
 df = df[df["ai_commentary"] != ""]  # Remove empty labels
@@ -26,8 +31,8 @@ def tokenize_data(examples):
 train_dataset = Dataset.from_dict({"input_event": train_texts, "ai_commentary": train_labels}).map(tokenize_data, batched=True)
 val_dataset = Dataset.from_dict({"input_event": val_texts, "ai_commentary": val_labels}).map(tokenize_data, batched=True)
 
-# Load pre-trained T5 model
-model = T5ForConditionalGeneration.from_pretrained("t5-small")
+# Load pre-trained T5 model and move to MPS
+model = T5ForConditionalGeneration.from_pretrained("t5-small").to(device)
 
 # Define training arguments
 training_args = TrainingArguments(
@@ -46,7 +51,7 @@ training_args = TrainingArguments(
 
 # Initialize Trainer
 trainer = Trainer(
-    model=model,
+    model=model.to(device),  # Move model to MPS
     args=training_args,
     train_dataset=train_dataset,
     eval_dataset=val_dataset,
