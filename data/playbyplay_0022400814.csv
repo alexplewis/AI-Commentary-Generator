@@ -1,0 +1,359 @@
+time_remaining,quarter,event_description,team,player
+PT12M00.00S,1,Period Start,,
+PT11M57.00S,1,Jump Ball O. Okongwu vs. J. Duren: Tip to D. Daniels,ATL,D. Daniels
+PT11M43.00S,1,MISS Z. Risacher driving Layup,ATL,Z. Risacher
+PT11M42.00S,1,O. Okongwu REBOUND (Off:1 Def:0),ATL,O. Okongwu
+PT11M42.00S,1,J. Duren shooting personal FOUL (1 PF) (Okongwu 2 FT),DET,J. Duren
+PT11M42.00S,1,MISS O. Okongwu Free Throw 1 of 2,ATL,O. Okongwu
+PT11M42.00S,1,TEAM offensive REBOUND,ATL,
+PT11M42.00S,1,MISS O. Okongwu Free Throw 2 of 2,ATL,O. Okongwu
+PT11M39.00S,1,A. Thompson REBOUND (Off:0 Def:1),DET,A. Thompson
+PT11M33.00S,1,MISS T. Hardaway Jr. 3PT,DET,T. Hardaway Jr.
+PT11M33.00S,1,TEAM offensive REBOUND,DET,
+PT11M33.00S,1,O. Okongwu loose ball personal FOUL (1 PF),ATL,O. Okongwu
+PT11M25.00S,1,A. Thompson cutting DUNK (2 PTS) (J. Duren 1 AST),DET,A. Thompson
+PT11M13.00S,1,MISS M. Gueye 25' 3PT,ATL,M. Gueye
+PT11M10.00S,1,J. Duren REBOUND (Off:0 Def:1),DET,J. Duren
+PT11M01.00S,1,MISS T. Harris 9' driving floating Shot,DET,T. Harris
+PT10M59.00S,1,O. Okongwu REBOUND (Off:1 Def:1),ATL,O. Okongwu
+PT10M50.00S,1,J. Duren shooting personal FOUL (2 PF) (Risacher 2 FT),DET,J. Duren
+PT10M50.00S,1,Z. Risacher Free Throw 1 of 2 (1 PTS),ATL,Z. Risacher
+PT10M50.00S,1,SUB out: J. Duren,DET,J. Duren
+PT10M50.00S,1,SUB in: I. Stewart,DET,I. Stewart
+PT10M50.00S,1,Z. Risacher Free Throw 2 of 2 (2 PTS),ATL,Z. Risacher
+PT10M35.00S,1,A. Thompson driving DUNK (4 PTS) (C. Cunningham 1 AST),DET,A. Thompson
+PT10M28.00S,1,A. Thompson personal FOUL (1 PF),DET,A. Thompson
+PT10M28.00S,1,T. Harris technical FOUL (1 Tech),DET,T. Harris
+PT10M28.00S,1,T. Young technical Free Throw 1 of 1 (1 PTS),ATL,T. Young
+PT10M21.00S,1,D. Daniels 11' driving floating Jump Shot (2 PTS),ATL,D. Daniels
+PT10M09.00S,1,MISS C. Cunningham 8' driving floating Shot,DET,C. Cunningham
+PT10M06.00S,1,D. Daniels REBOUND (Off:0 Def:1),ATL,D. Daniels
+PT10M02.00S,1,MISS O. Okongwu running Layup - blocked,ATL,O. Okongwu
+PT10M02.00S,1,I. Stewart BLOCK (1 BLK),DET,I. Stewart
+PT09M59.00S,1,T. Harris REBOUND (Off:0 Def:1),DET,T. Harris
+PT09M56.00S,1,A. Thompson running DUNK (6 PTS) (T. Harris 1 AST),DET,A. Thompson
+PT09M43.00S,1,O. Okongwu alley-oop Layup (2 PTS) (T. Young 1 AST),ATL,O. Okongwu
+PT09M20.00S,1,MISS T. Harris driving Layup,DET,T. Harris
+PT09M18.00S,1,D. Daniels REBOUND (Off:0 Def:2),ATL,D. Daniels
+PT09M11.00S,1,D. Daniels lost ball TURNOVER (1 TO),ATL,D. Daniels
+PT09M11.00S,1,T. Harris STEAL (1 STL),DET,T. Harris
+PT09M05.00S,1,MISS I. Stewart running Layup,DET,I. Stewart
+PT09M03.00S,1,O. Okongwu REBOUND (Off:1 Def:2),ATL,O. Okongwu
+PT08M53.00S,1,MISS Z. Risacher 3PT,ATL,Z. Risacher
+PT08M49.00S,1,A. Thompson REBOUND (Off:0 Def:2),DET,A. Thompson
+PT08M42.00S,1,C. Cunningham 25' 3PT  (3 PTS) (A. Thompson 1 AST),DET,C. Cunningham
+PT08M28.00S,1,T. Young 27' 3PT pullup (4 PTS),ATL,T. Young
+PT08M10.00S,1,MISS C. Cunningham 25' step back 3PT,DET,C. Cunningham
+PT08M06.00S,1,I. Stewart REBOUND (Off:1 Def:0),DET,I. Stewart
+PT08M06.00S,1,I. Stewart bad pass TURNOVER (1 TO),DET,I. Stewart
+PT08M06.00S,1,Z. Risacher STEAL (1 STL),ATL,Z. Risacher
+PT07M54.00S,1,A. Thompson shooting personal FOUL (2 PF) (Young 2 FT),DET,A. Thompson
+PT07M54.00S,1,T. Young Free Throw 1 of 2 (5 PTS),ATL,T. Young
+PT07M54.00S,1,SUB out: A. Thompson,DET,A. Thompson
+PT07M54.00S,1,SUB in: M. Beasley,DET,M. Beasley
+PT07M54.00S,1,T. Young Free Throw 2 of 2 (6 PTS),ATL,T. Young
+PT07M43.00S,1,MISS T. Harris 24' 3PT,DET,T. Harris
+PT07M40.00S,1,M. Gueye REBOUND (Off:0 Def:1),ATL,M. Gueye
+PT07M37.00S,1,MISS Z. Risacher running 3PT,ATL,Z. Risacher
+PT07M35.00S,1,T. Harris REBOUND (Off:0 Def:2),DET,T. Harris
+PT07M25.00S,1,C. Cunningham 6' turnaround Hook (5 PTS),DET,C. Cunningham
+PT07M07.00S,1,MISS M. Gueye 7' driving Layup,ATL,M. Gueye
+PT07M06.00S,1,O. Okongwu REBOUND (Off:2 Def:2),ATL,O. Okongwu
+PT07M05.00S,1,MISS O. Okongwu Hook,ATL,O. Okongwu
+PT07M04.00S,1,M. Gueye REBOUND (Off:1 Def:1),ATL,M. Gueye
+PT07M03.00S,1,M. Gueye lost ball out-of-bounds TURNOVER (1 TO),ATL,M. Gueye
+PT06M53.00S,1,T. Harris traveling TURNOVER (1 TO),DET,T. Harris
+PT06M53.00S,1,ATL Timeout,ATL,
+PT06M53.00S,1,SUB out: T. Young,ATL,T. Young
+PT06M53.00S,1,SUB out: M. Gueye,ATL,M. Gueye
+PT06M53.00S,1,SUB in: G. Niang,ATL,G. Niang
+PT06M53.00S,1,SUB in: C. LeVert,ATL,C. LeVert
+PT06M46.00S,1,D. Daniels driving finger roll Layup (4 PTS),ATL,D. Daniels
+PT06M31.00S,1,C. LeVert shooting personal FOUL (1 PF) (Beasley 3 FT),ATL,C. LeVert
+PT06M31.00S,1,MISS M. Beasley Free Throw 1 of 3,DET,M. Beasley
+PT06M31.00S,1,TEAM offensive REBOUND,DET,
+PT06M31.00S,1,MISS M. Beasley Free Throw 2 of 3,DET,M. Beasley
+PT06M31.00S,1,TEAM offensive REBOUND,DET,
+PT06M31.00S,1,MISS M. Beasley Free Throw 3 of 3,DET,M. Beasley
+PT06M29.00S,1,Z. Risacher REBOUND (Off:0 Def:1),ATL,Z. Risacher
+PT06M18.00S,1,D. Daniels offensive goaltending TURNOVER (2 TO),ATL,D. Daniels
+PT05M57.00S,1,MISS T. Hardaway Jr. 7' driving floating Shot,DET,T. Hardaway Jr.
+PT05M54.00S,1,Z. Risacher REBOUND (Off:0 Def:2),ATL,Z. Risacher
+PT05M50.00S,1,MISS G. Niang 25' running 3PT,ATL,G. Niang
+PT05M47.00S,1,M. Beasley REBOUND (Off:0 Def:1),DET,M. Beasley
+PT05M38.00S,1,C. Cunningham 25' 3PT pullup (8 PTS),DET,C. Cunningham
+PT05M19.00S,1,MISS Z. Risacher 6' driving floating Shot,ATL,Z. Risacher
+PT05M16.00S,1,C. Cunningham REBOUND (Off:0 Def:1),DET,C. Cunningham
+PT05M13.00S,1,M. Beasley running finger roll Layup (2 PTS) (C. Cunningham 2 AST),DET,M. Beasley
+PT05M00.00S,1,C. LeVert 25' 3PT  (3 PTS) (O. Okongwu 1 AST),ATL,C. LeVert
+PT04M48.00S,1,C. Cunningham 24' 3PT  (11 PTS) (M. Beasley 1 AST),DET,C. Cunningham
+PT04M32.00S,1,MISS G. Niang cutting Layup,ATL,G. Niang
+PT04M30.00S,1,G. Niang REBOUND (Off:1 Def:0),ATL,G. Niang
+PT04M28.00S,1,MISS G. Niang putback Layup,ATL,G. Niang
+PT04M28.00S,1,O. Okongwu REBOUND (Off:3 Def:2),ATL,O. Okongwu
+PT04M22.00S,1,MISS D. Daniels driving floating bank Shot,ATL,D. Daniels
+PT04M19.00S,1,I. Stewart REBOUND (Off:1 Def:1),DET,I. Stewart
+PT04M16.00S,1,T. Hardaway Jr. 25' 3PT running (3 PTS) (C. Cunningham 3 AST),DET,T. Hardaway Jr.
+PT04M02.00S,1,MISS O. Okongwu Hook,ATL,O. Okongwu
+PT03M57.00S,1,C. Cunningham REBOUND (Off:0 Def:2),DET,C. Cunningham
+PT03M54.00S,1,MISS C. Cunningham running Layup - blocked,DET,C. Cunningham
+PT03M54.00S,1,Z. Risacher BLOCK (1 BLK),ATL,Z. Risacher
+PT03M51.00S,1,Z. Risacher REBOUND (Off:0 Def:3),ATL,Z. Risacher
+PT03M48.00S,1,Z. Risacher 24' 3PT running (5 PTS) (C. LeVert 1 AST),ATL,Z. Risacher
+PT03M26.00S,1,I. Stewart cutting DUNK (2 PTS) (C. Cunningham 4 AST),DET,I. Stewart
+PT03M07.00S,1,G. Niang cutting Layup (2 PTS) (O. Okongwu 2 AST),ATL,G. Niang
+PT02M48.00S,1,MISS C. Cunningham 24' pullup 3PT,DET,C. Cunningham
+PT02M47.00S,1,TEAM offensive REBOUND,DET,
+PT02M47.00S,1,G. Niang loose ball personal FOUL (1 PF),ATL,G. Niang
+PT02M47.00S,1,DET Timeout,DET,
+PT02M47.00S,1,SUB out: D. Daniels,ATL,D. Daniels
+PT02M47.00S,1,SUB out: Z. Risacher,ATL,Z. Risacher
+PT02M47.00S,1,SUB out: O. Okongwu,ATL,O. Okongwu
+PT02M47.00S,1,SUB out: C. Cunningham,DET,C. Cunningham
+PT02M47.00S,1,SUB out: T. Hardaway Jr.,DET,T. Hardaway Jr.
+PT02M47.00S,1,SUB in: T. Mann,ATL,T. Mann
+PT02M47.00S,1,SUB in: C. Capela,ATL,C. Capela
+PT02M47.00S,1,SUB in: T. Young,ATL,T. Young
+PT02M47.00S,1,SUB in: S. Fontecchio,DET,S. Fontecchio
+PT02M47.00S,1,SUB in: D. Schröder,DET,D. Schröder
+PT02M37.00S,1,MISS T. Harris 3PT,DET,T. Harris
+PT02M32.00S,1,C. LeVert REBOUND (Off:0 Def:1),ATL,C. LeVert
+PT02M26.00S,1,MISS T. Young 6' driving floating Shot,ATL,T. Young
+PT02M24.00S,1,I. Stewart REBOUND (Off:1 Def:2),DET,I. Stewart
+PT02M19.00S,1,S. Fontecchio bad pass TURNOVER (1 TO),DET,S. Fontecchio
+PT02M19.00S,1,T. Young STEAL (1 STL),ATL,T. Young
+PT02M13.00S,1,G. Niang 24' 3PT running (5 PTS) (T. Young 2 AST),ATL,G. Niang
+PT02M00.00S,1,MISS M. Beasley 24' 3PT,DET,M. Beasley
+PT01M59.00S,1,T. Mann REBOUND (Off:0 Def:1),ATL,T. Mann
+PT01M51.00S,1,MISS C. LeVert 25' running pullup 3PT,ATL,C. LeVert
+PT01M48.00S,1,M. Beasley REBOUND (Off:0 Def:2),DET,M. Beasley
+PT01M35.00S,1,T. Harris driving Layup (2 PTS) (I. Stewart 1 AST),DET,T. Harris
+PT01M24.00S,1,T. Young driving finger roll Layup (8 PTS),ATL,T. Young
+PT01M11.00S,1,D. Schröder 24' 3PT step back (3 PTS),DET,D. Schröder
+PT01M02.00S,1,MISS G. Niang 25' 3PT,ATL,G. Niang
+PT00M58.70S,1,D. Schröder REBOUND (Off:0 Def:1),DET,D. Schröder
+PT00M52.20S,1,I. Stewart driving floating Jump Shot (4 PTS) (S. Fontecchio 1 AST),DET,I. Stewart
+PT00M45.20S,1,MISS C. LeVert driving Layup - blocked,ATL,C. LeVert
+PT00M45.20S,1,I. Stewart BLOCK (2 BLK),DET,I. Stewart
+PT00M41.70S,1,S. Fontecchio REBOUND (Off:0 Def:1),DET,S. Fontecchio
+PT00M38.10S,1,S. Fontecchio running Layup (2 PTS) (T. Harris 2 AST),DET,S. Fontecchio
+PT00M28.40S,1,M. Beasley shooting personal FOUL (1 PF) (Capela 2 FT),DET,M. Beasley
+PT00M28.40S,1,MISS C. Capela Free Throw 1 of 2,ATL,C. Capela
+PT00M28.40S,1,TEAM offensive REBOUND,ATL,
+PT00M28.40S,1,C. Capela Free Throw 2 of 2 (1 PTS),ATL,C. Capela
+PT00M13.50S,1,I. Stewart off-the-ball offensive FOUL (1 PF),DET,I. Stewart
+PT00M13.50S,1,I. Stewart offensive foul TURNOVER (2 TO),DET,I. Stewart
+PT00M02.80S,1,T. Young 8' driving floating bank Jump Shot (10 PTS),ATL,T. Young
+PT00M00.40S,1,MISS T. Harris 11' driving floating Shot,DET,T. Harris
+PT00M00.10S,1,TEAM offensive REBOUND,DET,
+PT00M00.00S,1,Period End,,
+PT12M00.00S,2,SUB out: T. Harris,DET,T. Harris
+PT12M00.00S,2,SUB out: I. Stewart,DET,I. Stewart
+PT12M00.00S,2,SUB in: R. Holland II,DET,R. Holland II
+PT12M00.00S,2,SUB in: P. Reed,DET,P. Reed
+PT12M00.00S,2,Period Start,,
+PT11M37.00S,2,MISS S. Fontecchio 20' step back Shot,DET,S. Fontecchio
+PT11M34.00S,2,C. Capela REBOUND (Off:0 Def:1),ATL,C. Capela
+PT11M24.00S,2,MISS G. Niang 3PT,ATL,G. Niang
+PT11M22.00S,2,T. Mann REBOUND (Off:1 Def:1),ATL,T. Mann
+PT11M22.00S,2,P. Reed shooting personal FOUL (1 PF) (Mann 2 FT),DET,P. Reed
+PT11M22.00S,2,MISS T. Mann Free Throw 1 of 2,ATL,T. Mann
+PT11M22.00S,2,TEAM offensive REBOUND,ATL,
+PT11M22.00S,2,MISS T. Mann Free Throw 2 of 2,ATL,T. Mann
+PT11M19.00S,2,M. Beasley REBOUND (Off:0 Def:3),DET,M. Beasley
+PT11M12.00S,2,MISS D. Schröder 25' 3PT,DET,D. Schröder
+PT11M09.00S,2,G. Niang REBOUND (Off:1 Def:1),ATL,G. Niang
+PT11M04.00S,2,T. Young 26' 3PT running pullup (13 PTS),ATL,T. Young
+PT10M46.00S,2,MISS S. Fontecchio driving floating bank Shot,DET,S. Fontecchio
+PT10M42.00S,2,C. Capela REBOUND (Off:0 Def:2),ATL,C. Capela
+PT10M39.00S,2,MISS C. LeVert 25' running 3PT,ATL,C. LeVert
+PT10M38.00S,2,T. Mann REBOUND (Off:2 Def:1),ATL,T. Mann
+PT10M38.00S,2,T. Mann putback Layup (2 PTS),ATL,T. Mann
+PT10M26.00S,2,R. Holland II lost ball out-of-bounds TURNOVER (1 TO),DET,R. Holland II
+PT10M15.00S,2,P. Reed shooting personal FOUL (2 PF) (Capela 2 FT),DET,P. Reed
+PT10M15.00S,2,MISS C. Capela Free Throw 1 of 2,ATL,C. Capela
+PT10M15.00S,2,TEAM offensive REBOUND,ATL,
+PT10M15.00S,2,SUB out: C. LeVert,ATL,C. LeVert
+PT10M15.00S,2,SUB out: S. Fontecchio,DET,S. Fontecchio
+PT10M15.00S,2,SUB in: Z. Risacher,ATL,Z. Risacher
+PT10M15.00S,2,SUB in: C. Cunningham,DET,C. Cunningham
+PT10M15.00S,2,C. Capela Free Throw 2 of 2 (2 PTS),ATL,C. Capela
+PT10M03.00S,2,MISS C. Cunningham driving Layup - blocked,DET,C. Cunningham
+PT10M03.00S,2,Z. Risacher BLOCK (2 BLK),ATL,Z. Risacher
+PT10M00.00S,2,Z. Risacher REBOUND (Off:0 Def:4),ATL,Z. Risacher
+PT09M54.00S,2,MISS G. Niang 25' running 3PT,ATL,G. Niang
+PT09M52.00S,2,R. Holland II REBOUND (Off:0 Def:1),DET,R. Holland II
+PT09M48.00S,2,C. Cunningham running DUNK (13 PTS) (R. Holland II 1 AST),DET,C. Cunningham
+PT09M39.00S,2,G. Niang 9' driving floating Jump Shot (7 PTS) (T. Young 3 AST),ATL,G. Niang
+PT09M23.00S,2,G. Niang shooting personal FOUL (2 PF) (Reed 2 FT),ATL,G. Niang
+PT09M23.00S,2,MISS P. Reed Free Throw 1 of 2,DET,P. Reed
+PT09M23.00S,2,TEAM offensive REBOUND,DET,
+PT09M23.00S,2,SUB out: G. Niang,ATL,G. Niang
+PT09M23.00S,2,SUB in: M. Gueye,ATL,M. Gueye
+PT09M23.00S,2,P. Reed Free Throw 2 of 2 (1 PTS),DET,P. Reed
+PT09M15.00S,2,D. Schröder personal FOUL (1 PF),DET,D. Schröder
+PT09M05.00S,2,MISS T. Young 12' pullup Shot,ATL,T. Young
+PT09M00.00S,2,C. Cunningham REBOUND (Off:0 Def:3),DET,C. Cunningham
+PT08M56.00S,2,M. Beasley 3PT running (5 PTS) (C. Cunningham 5 AST),DET,M. Beasley
+PT08M56.00S,2,T. Mann shooting personal FOUL (1 PF) (Beasley 1 FT),ATL,T. Mann
+PT08M56.00S,2,MISS M. Beasley Free Throw 1 of 1,DET,M. Beasley
+PT08M53.00S,2,C. Capela REBOUND (Off:0 Def:3),ATL,C. Capela
+PT08M43.00S,2,MISS M. Gueye 3PT,ATL,M. Gueye
+PT08M42.00S,2,TEAM offensive REBOUND,ATL,
+PT08M34.00S,2,C. Capela turnaround Hook (4 PTS) (T. Young 4 AST),ATL,C. Capela
+PT08M25.00S,2,M. Gueye personal FOUL (1 PF),ATL,M. Gueye
+PT08M25.00S,2,SUB out: M. Beasley,DET,M. Beasley
+PT08M25.00S,2,SUB out: P. Reed,DET,P. Reed
+PT08M25.00S,2,SUB in: J. Duren,DET,J. Duren
+PT08M25.00S,2,SUB in: A. Thompson,DET,A. Thompson
+PT08M17.00S,2,D. Schröder 9' driving floating bank Jump Shot (5 PTS) (C. Cunningham 6 AST),DET,D. Schröder
+PT08M03.00S,2,MISS T. Young 25' step back 3PT,ATL,T. Young
+PT08M00.00S,2,D. Schröder REBOUND (Off:0 Def:2),DET,D. Schröder
+PT07M57.00S,2,A. Thompson charge offensive FOUL (3 PF),DET,A. Thompson
+PT07M57.00S,2,A. Thompson offensive foul TURNOVER (1 TO),DET,A. Thompson
+PT07M57.00S,2,SUB out: T. Young,ATL,T. Young
+PT07M57.00S,2,SUB out: C. Capela,ATL,C. Capela
+PT07M57.00S,2,SUB in: D. Daniels,ATL,D. Daniels
+PT07M57.00S,2,SUB in: O. Okongwu,ATL,O. Okongwu
+PT07M49.00S,2,Z. Risacher 25' 3PT  (8 PTS) (D. Daniels 1 AST),ATL,Z. Risacher
+PT07M29.00S,2,J. Duren DUNK (2 PTS) (A. Thompson 2 AST),DET,J. Duren
+PT07M17.00S,2,MISS D. Daniels driving Layup,ATL,D. Daniels
+PT07M14.00S,2,J. Duren REBOUND (Off:0 Def:2),DET,J. Duren
+PT07M12.00S,2,J. Duren bad pass out-of-bounds TURNOVER (1 TO),DET,J. Duren
+PT07M01.00S,2,O. Okongwu cutting DUNK (4 PTS) (Z. Risacher 1 AST),ATL,O. Okongwu
+PT06M47.00S,2,M. Gueye defensive-3-second technical FOUL (1 Tech),ATL,M. Gueye
+PT06M47.00S,2,ATL Timeout,ATL,
+PT06M47.00S,2,C. Cunningham technical Free Throw 1 of 1 (14 PTS),DET,C. Cunningham
+PT06M38.00S,2,C. Cunningham 6' turnaround Hook (16 PTS) (D. Schröder 1 AST),DET,C. Cunningham
+PT06M24.00S,2,Z. Risacher cutting Layup (10 PTS) (D. Daniels 2 AST),ATL,Z. Risacher
+PT06M24.00S,2,A. Thompson shooting personal FOUL (4 PF) (Risacher 1 FT),DET,A. Thompson
+PT06M24.00S,2,SUB out: A. Thompson,DET,A. Thompson
+PT06M24.00S,2,SUB out: D. Schröder,DET,D. Schröder
+PT06M24.00S,2,SUB in: T. Harris,DET,T. Harris
+PT06M24.00S,2,SUB in: T. Hardaway Jr.,DET,T. Hardaway Jr.
+PT06M24.00S,2,Z. Risacher Free Throw 1 of 1 (11 PTS),ATL,Z. Risacher
+PT06M11.00S,2,SUB out: Z. Risacher,ATL,Z. Risacher
+PT06M11.00S,2,SUB in: C. LeVert,ATL,C. LeVert
+PT06M11.00S,2,SUB out: M. Gueye,ATL,M. Gueye
+PT06M11.00S,2,SUB in: G. Niang,ATL,G. Niang
+PT06M04.00S,2,C. Cunningham 25' 3PT step back (19 PTS),DET,C. Cunningham
+PT05M51.00S,2,MISS D. Daniels driving Layup - blocked,ATL,D. Daniels
+PT05M51.00S,2,C. Cunningham BLOCK (1 BLK),DET,C. Cunningham
+PT05M48.00S,2,C. Cunningham REBOUND (Off:0 Def:4),DET,C. Cunningham
+PT05M46.00S,2,R. Holland II running DUNK (2 PTS) (C. Cunningham 7 AST),DET,R. Holland II
+PT05M37.00S,2,MISS C. LeVert 26' 3PT,ATL,C. LeVert
+PT05M36.00S,2,TEAM offensive REBOUND,ATL,
+PT05M23.00S,2,O. Okongwu 11' turnaround Hook (6 PTS),ATL,O. Okongwu
+PT05M02.00S,2,O. Okongwu shooting personal FOUL (2 PF) (Harris 2 FT),ATL,O. Okongwu
+PT05M02.00S,2,T. Harris Free Throw 1 of 2 (3 PTS),DET,T. Harris
+PT05M02.00S,2,SUB out: T. Mann,ATL,T. Mann
+PT05M02.00S,2,SUB out: R. Holland II,DET,R. Holland II
+PT05M02.00S,2,SUB in: T. Young,ATL,T. Young
+PT05M02.00S,2,SUB in: M. Beasley,DET,M. Beasley
+PT05M02.00S,2,T. Harris Free Throw 2 of 2 (4 PTS),DET,T. Harris
+PT04M41.00S,2,MISS O. Okongwu 3PT,ATL,O. Okongwu
+PT04M39.00S,2,T. Harris REBOUND (Off:0 Def:3),DET,T. Harris
+PT04M30.00S,2,C. Cunningham 13' step back Jump Shot (21 PTS),DET,C. Cunningham
+PT04M13.00S,2,G. Niang 26' 3PT  (10 PTS) (T. Young 5 AST),ATL,G. Niang
+PT03M52.00S,2,M. Beasley 25' 3PT  (8 PTS) (C. Cunningham 8 AST),DET,M. Beasley
+PT03M36.00S,2,C. Cunningham shooting personal FOUL (1 PF) (Okongwu 2 FT),DET,C. Cunningham
+PT03M36.00S,2,O. Okongwu Free Throw 1 of 2 (7 PTS),ATL,O. Okongwu
+PT03M36.00S,2,O. Okongwu Free Throw 2 of 2 (8 PTS),ATL,O. Okongwu
+PT03M22.00S,2,C. Cunningham 24' 3PT  (24 PTS) (J. Duren 2 AST),DET,C. Cunningham
+PT03M14.00S,2,T. Young 26' 3PT pullup (16 PTS),ATL,T. Young
+PT02M56.00S,2,MISS T. Harris 3PT,DET,T. Harris
+PT02M53.00S,2,T. Young REBOUND (Off:0 Def:1),ATL,T. Young
+PT02M44.00S,2,D. Daniels 3PT  (7 PTS) (G. Niang 1 AST),ATL,D. Daniels
+PT02M29.00S,2,J. Duren alley-oop DUNK (4 PTS) (C. Cunningham 9 AST),DET,J. Duren
+PT02M19.00S,2,MISS T. Young 26' pullup 3PT,ATL,T. Young
+PT02M17.00S,2,J. Duren REBOUND (Off:0 Def:3),DET,J. Duren
+PT02M10.00S,2,DET Timeout,DET,
+PT02M10.00S,2,SUB out: J. Duren,DET,J. Duren
+PT02M10.00S,2,SUB in: I. Stewart,DET,I. Stewart
+PT02M01.00S,2,T. Hardaway Jr. 24' 3PT  (6 PTS) (M. Beasley 2 AST),DET,T. Hardaway Jr.
+PT01M49.00S,2,MISS G. Niang 25' 3PT,ATL,G. Niang
+PT01M46.00S,2,M. Beasley REBOUND (Off:0 Def:4),DET,M. Beasley
+PT01M31.00S,2,T. Harris driving Layup (6 PTS) (T. Hardaway Jr. 1 AST),DET,T. Harris
+PT01M24.00S,2,I. Stewart shooting personal FOUL (2 PF) (Okongwu 2 FT),DET,I. Stewart
+PT01M24.00S,2,O. Okongwu Free Throw 1 of 2 (9 PTS),ATL,O. Okongwu
+PT01M24.00S,2,O. Okongwu Free Throw 2 of 2 (10 PTS),ATL,O. Okongwu
+PT01M13.00S,2,MISS T. Hardaway Jr. 25' pullup 3PT,DET,T. Hardaway Jr.
+PT01M08.00S,2,D. Daniels REBOUND (Off:0 Def:3),ATL,D. Daniels
+PT01M05.00S,2,D. Daniels bad pass TURNOVER (3 TO),ATL,D. Daniels
+PT01M05.00S,2,T. Hardaway Jr. STEAL (1 STL),DET,T. Hardaway Jr.
+PT00M53.00S,2,T. Hardaway Jr. 24' 3PT  (9 PTS) (C. Cunningham 10 AST),DET,T. Hardaway Jr.
+PT00M44.40S,2,G. Niang 25' 3PT  (13 PTS),ATL,G. Niang
+PT00M35.40S,2,C. Cunningham 32' 3PT pullup (27 PTS) (M. Beasley 3 AST),DET,C. Cunningham
+PT00M25.60S,2,MISS G. Niang 9' driving floating bank Shot,ATL,G. Niang
+PT00M20.50S,2,C. Cunningham REBOUND (Off:0 Def:5),DET,C. Cunningham
+PT00M15.60S,2,C. Cunningham lost ball TURNOVER (1 TO),DET,C. Cunningham
+PT00M15.60S,2,D. Daniels STEAL (1 STL),ATL,D. Daniels
+PT00M13.70S,2,D. Daniels driving DUNK (9 PTS),ATL,D. Daniels
+PT00M00.60S,2,C. Cunningham driving Layup (29 PTS) (T. Hardaway Jr. 2 AST),DET,C. Cunningham
+PT00M00.00S,2,Period End,,
+PT12M00.00S,3,SUB out: C. LeVert,ATL,C. LeVert
+PT12M00.00S,3,SUB out: G. Niang,ATL,G. Niang
+PT12M00.00S,3,SUB out: M. Beasley,DET,M. Beasley
+PT12M00.00S,3,SUB out: I. Stewart,DET,I. Stewart
+PT12M00.00S,3,SUB in: Z. Risacher,ATL,Z. Risacher
+PT12M00.00S,3,SUB in: M. Gueye,ATL,M. Gueye
+PT12M00.00S,3,SUB in: J. Duren,DET,J. Duren
+PT12M00.00S,3,SUB in: A. Thompson,DET,A. Thompson
+PT12M00.00S,3,Period Start,,
+PT11M46.00S,3,A. Thompson 6' driving floating Jump Shot (8 PTS),DET,A. Thompson
+PT11M32.00S,3,O. Okongwu floating Jump Shot (12 PTS) (D. Daniels 3 AST),ATL,O. Okongwu
+PT11M20.00S,3,T. Hardaway Jr. 25' 3PT  (12 PTS) (J. Duren 3 AST),DET,T. Hardaway Jr.
+PT11M03.00S,3,MISS T. Young 24' step back 3PT,ATL,T. Young
+PT10M58.00S,3,T. Hardaway Jr. REBOUND (Off:0 Def:1),DET,T. Hardaway Jr.
+PT10M48.00S,3,MISS T. Hardaway Jr. 26' 3PT,DET,T. Hardaway Jr.
+PT10M45.00S,3,D. Daniels REBOUND (Off:0 Def:4),ATL,D. Daniels
+PT10M37.00S,3,D. Daniels 24' 3PT  (12 PTS) (Z. Risacher 2 AST),ATL,D. Daniels
+PT10M25.00S,3,M. Gueye personal FOUL (2 PF),ATL,M. Gueye
+PT10M25.00S,3,SUB out: M. Gueye,ATL,M. Gueye
+PT10M25.00S,3,SUB in: G. Niang,ATL,G. Niang
+PT10M16.00S,3,MISS T. Hardaway Jr. 25' 3PT,DET,T. Hardaway Jr.
+PT10M13.00S,3,O. Okongwu REBOUND (Off:3 Def:3),ATL,O. Okongwu
+PT10M01.00S,3,G. Niang 3PT  (16 PTS) (T. Young 6 AST),ATL,G. Niang
+PT09M50.00S,3,C. Cunningham bad pass TURNOVER (2 TO),DET,C. Cunningham
+PT09M50.00S,3,G. Niang STEAL (1 STL),ATL,G. Niang
+PT09M41.00S,3,T. Young 24' 3PT step back (19 PTS) (O. Okongwu 3 AST),ATL,T. Young
+PT09M20.00S,3,J. Duren 9' turnaround fadeaway Jump Shot (6 PTS),DET,J. Duren
+PT09M12.00S,3,T. Young lost ball TURNOVER (1 TO),ATL,T. Young
+PT09M12.00S,3,A. Thompson STEAL (1 STL),DET,A. Thompson
+PT09M08.00S,3,A. Thompson running DUNK (10 PTS),DET,A. Thompson
+PT09M00.00S,3,T. Young bad pass TURNOVER (2 TO),ATL,T. Young
+PT09M00.00S,3,J. Duren STEAL (1 STL),DET,J. Duren
+PT08M55.00S,3,A. Thompson offensive-kicked-ball TURNOVER (2 TO),DET,A. Thompson
+PT08M55.00S,3,SUB out: G. Niang,ATL,G. Niang
+PT08M55.00S,3,SUB in: M. Gueye,ATL,M. Gueye
+PT08M47.00S,3,MISS T. Young 26' pullup 3PT,ATL,T. Young
+PT08M43.00S,3,J. Duren REBOUND (Off:0 Def:4),DET,J. Duren
+PT08M37.00S,3,A. Thompson alley-oop DUNK (12 PTS) (J. Duren 4 AST),DET,A. Thompson
+PT08M17.00S,3,D. Daniels driving finger roll Layup (14 PTS) (O. Okongwu 4 AST),ATL,D. Daniels
+PT08M08.00S,3,T. Young shooting personal FOUL (1 PF) (Duren 2 FT),ATL,T. Young
+PT08M08.00S,3,ATL Timeout,ATL,
+PT08M08.00S,3,J. Duren Free Throw 1 of 2 (7 PTS),DET,J. Duren
+PT08M08.00S,3,MISS J. Duren Free Throw 2 of 2,DET,J. Duren
+PT08M06.00S,3,Z. Risacher REBOUND (Off:0 Def:5),ATL,Z. Risacher
+PT07M58.00S,3,T. Young bad pass TURNOVER (3 TO),ATL,T. Young
+PT07M58.00S,3,A. Thompson STEAL (2 STL),DET,A. Thompson
+PT07M53.00S,3,T. Hardaway Jr. bad pass TURNOVER (1 TO),DET,T. Hardaway Jr.
+PT07M53.00S,3,Z. Risacher STEAL (2 STL),ATL,Z. Risacher
+PT07M46.00S,3,D. Daniels 24' 3PT pullup (17 PTS) (Z. Risacher 3 AST),ATL,D. Daniels
+PT07M26.00S,3,MISS A. Thompson driving reverse Layup,DET,A. Thompson
+PT07M23.00S,3,O. Okongwu REBOUND (Off:3 Def:4),ATL,O. Okongwu
+PT07M20.00S,3,M. Gueye running DUNK (2 PTS) (T. Young 7 AST),ATL,M. Gueye
+PT07M03.00S,3,MISS C. Cunningham 25' pullup 3PT,DET,C. Cunningham
+PT07M00.00S,3,Z. Risacher REBOUND (Off:0 Def:6),ATL,Z. Risacher
+PT06M45.00S,3,T. Harris shooting personal FOUL (1 PF) (Risacher 2 FT),DET,T. Harris
+PT06M45.00S,3,Z. Risacher Free Throw 1 of 2 (12 PTS),ATL,Z. Risacher
+PT06M45.00S,3,SUB out: M. Gueye,ATL,M. Gueye
+PT06M45.00S,3,SUB out: A. Thompson,DET,A. Thompson
+PT06M45.00S,3,SUB in: G. Niang,ATL,G. Niang
+PT06M45.00S,3,SUB in: M. Beasley,DET,M. Beasley
+PT06M45.00S,3,Z. Risacher Free Throw 2 of 2 (13 PTS),ATL,Z. Risacher
+PT06M35.00S,3,T. Hardaway Jr. 3PT  (15 PTS) (T. Harris 3 AST),DET,T. Hardaway Jr.
+PT06M23.00S,3,MISS T. Young 25' pullup 3PT,ATL,T. Young
+PT06M20.00S,3,O. Okongwu REBOUND (Off:4 Def:4),ATL,O. Okongwu
+PT06M18.00S,3,G. Niang 25' 3PT  (19 PTS) (O. Okongwu 5 AST),ATL,G. Niang
+PT05M58.00S,3,T. Harris 12' shot (8 PTS),DET,T. Harris

@@ -1,0 +1,328 @@
+time_remaining,quarter,event_description,team,player
+PT12M00.00S,1,Period Start,,
+PT11M56.00S,1,Jump Ball N. Richards vs. O. Robinson: Tip to D. Booker,PHX,D. Booker
+PT11M48.00S,1,I. Quickley personal FOUL (1 PF),TOR,I. Quickley
+PT11M41.00S,1,B. Beal driving Layup (2 PTS),PHX,B. Beal
+PT11M22.00S,1,G. Dick 3PT  (3 PTS) (R. Barrett 1 AST),TOR,G. Dick
+PT11M16.00S,1,R. O'Neale bad pass TURNOVER (1 TO),PHX,R. O'Neale
+PT11M16.00S,1,I. Quickley STEAL (1 STL),TOR,I. Quickley
+PT11M14.00S,1,MISS I. Quickley floating Shot,TOR,I. Quickley
+PT11M13.00S,1,R. O'Neale REBOUND (Off:0 Def:1),PHX,R. O'Neale
+PT11M08.00S,1,MISS N. Richards cutting Layup,PHX,N. Richards
+PT11M08.00S,1,I. Quickley REBOUND (Off:0 Def:1),TOR,I. Quickley
+PT11M03.00S,1,R. Barrett running Layup (2 PTS) (I. Quickley 1 AST),TOR,R. Barrett
+PT10M43.00S,1,MISS B. Beal 3PT,PHX,B. Beal
+PT10M41.00S,1,TEAM defensive REBOUND,TOR,
+PT10M30.00S,1,I. Quickley 26' 3PT  (3 PTS) (O. Robinson 1 AST),TOR,I. Quickley
+PT10M07.00S,1,D. Booker driving Layup (2 PTS),PHX,D. Booker
+PT09M52.00S,1,MISS R. Barrett 7' turnaround Hook,TOR,R. Barrett
+PT09M50.00S,1,O. Robinson REBOUND (Off:1 Def:0),TOR,O. Robinson
+PT09M48.00S,1,O. Robinson putback Layup (2 PTS),TOR,O. Robinson
+PT09M28.00S,1,O. Robinson shooting personal FOUL (1 PF) (Richards 2 FT),TOR,O. Robinson
+PT09M28.00S,1,N. Richards Free Throw 1 of 2 (1 PTS),PHX,N. Richards
+PT09M28.00S,1,N. Richards Free Throw 2 of 2 (2 PTS),PHX,N. Richards
+PT09M18.00S,1,MISS I. Quickley 13' driving floating Shot,TOR,I. Quickley
+PT09M15.00S,1,D. Booker REBOUND (Off:0 Def:1),PHX,D. Booker
+PT09M03.00S,1,MISS R. O'Neale 26' 3PT,PHX,R. O'Neale
+PT09M00.00S,1,I. Quickley REBOUND (Off:0 Def:2),TOR,I. Quickley
+PT08M49.00S,1,B. Beal shooting personal FOUL (1 PF) (Barrett 2 FT),PHX,B. Beal
+PT08M49.00S,1,R. Barrett Free Throw 1 of 2 (3 PTS),TOR,R. Barrett
+PT08M49.00S,1,R. Barrett Free Throw 2 of 2 (4 PTS),TOR,R. Barrett
+PT08M35.00S,1,D. Booker 13' fadeaway Jump Shot (4 PTS),PHX,D. Booker
+PT08M23.00S,1,MISS S. Barnes 25' 3PT,TOR,S. Barnes
+PT08M20.00S,1,N. Richards REBOUND (Off:0 Def:1),PHX,N. Richards
+PT08M09.00S,1,K. Durant 19' fadeaway Jump Shot (2 PTS),PHX,K. Durant
+PT07M51.00S,1,MISS O. Robinson 10' Jump Shot,TOR,O. Robinson
+PT07M49.00S,1,N. Richards REBOUND (Off:0 Def:2),PHX,N. Richards
+PT07M35.00S,1,MISS D. Booker 25' step back 3PT,PHX,D. Booker
+PT07M32.00S,1,S. Barnes REBOUND (Off:0 Def:1),TOR,S. Barnes
+PT07M23.00S,1,MISS S. Barnes 12' turnaround fadeaway Shot,TOR,S. Barnes
+PT07M19.00S,1,D. Booker REBOUND (Off:0 Def:2),PHX,D. Booker
+PT07M02.00S,1,MISS R. O'Neale driving floating Shot,PHX,R. O'Neale
+PT07M02.00S,1,S. Barnes REBOUND (Off:0 Def:2),TOR,S. Barnes
+PT07M02.00S,1,TOR Timeout,TOR,
+PT07M02.00S,1,SUB out: S. Barnes,TOR,S. Barnes
+PT07M02.00S,1,SUB out: R. O'Neale,PHX,R. O'Neale
+PT07M02.00S,1,SUB in: O. Agbaji,TOR,O. Agbaji
+PT07M02.00S,1,SUB in: R. Dunn,PHX,R. Dunn
+PT06M45.00S,1,G. Dick 25' 3PT step back (6 PTS) (O. Robinson 2 AST),TOR,G. Dick
+PT06M17.00S,1,K. Durant 12' turnaround fadeaway Jump Shot (4 PTS),PHX,K. Durant
+PT06M11.00S,1,R. Dunn shooting personal FOUL (1 PF) (Barrett 2 FT),PHX,R. Dunn
+PT06M11.00S,1,MISS R. Barrett Free Throw 1 of 2,TOR,R. Barrett
+PT06M11.00S,1,TEAM offensive REBOUND,TOR,
+PT06M11.00S,1,SUB out: I. Quickley,TOR,I. Quickley
+PT06M11.00S,1,SUB in: J. Shead,TOR,J. Shead
+PT06M11.00S,1,MISS R. Barrett Free Throw 2 of 2,TOR,R. Barrett
+PT06M09.00S,1,R. Dunn REBOUND (Off:0 Def:1),PHX,R. Dunn
+PT05M47.00S,1,MISS R. Dunn 3PT,PHX,R. Dunn
+PT05M46.00S,1,TEAM offensive REBOUND,PHX,
+PT05M46.00S,1,PHX shot clock Team TURNOVER,PHX,
+PT05M36.00S,1,MISS G. Dick 24' 3PT,TOR,G. Dick
+PT05M33.00S,1,K. Durant REBOUND (Off:0 Def:1),PHX,K. Durant
+PT05M25.00S,1,MISS D. Booker driving floating bank Shot,PHX,D. Booker
+PT05M23.00S,1,N. Richards REBOUND (Off:1 Def:2),PHX,N. Richards
+PT05M23.00S,1,MISS N. Richards tip Layup,PHX,N. Richards
+PT05M22.00S,1,G. Dick REBOUND (Off:0 Def:1),TOR,G. Dick
+PT05M16.00S,1,MISS O. Agbaji running 3PT,TOR,O. Agbaji
+PT05M13.00S,1,B. Beal REBOUND (Off:0 Def:1),PHX,B. Beal
+PT05M05.00S,1,MISS K. Durant 3PT,PHX,K. Durant
+PT05M02.00S,1,R. Barrett REBOUND (Off:0 Def:1),TOR,R. Barrett
+PT04M51.00S,1,G. Dick 3PT step back (9 PTS),TOR,G. Dick
+PT04M29.00S,1,B. Beal 10' driving floating Jump Shot (4 PTS),PHX,B. Beal
+PT04M12.00S,1,MISS R. Barrett 24' 3PT,TOR,R. Barrett
+PT04M09.00S,1,D. Booker REBOUND (Off:0 Def:3),PHX,D. Booker
+PT04M06.00S,1,O. Robinson shooting personal FOUL (2 PF) (Beal 2 FT),TOR,O. Robinson
+PT04M06.00S,1,MISS B. Beal Free Throw 1 of 2,PHX,B. Beal
+PT04M06.00S,1,TEAM offensive REBOUND,PHX,
+PT04M06.00S,1,SUB out: G. Dick,TOR,G. Dick
+PT04M06.00S,1,SUB out: O. Robinson,TOR,O. Robinson
+PT04M06.00S,1,SUB out: N. Richards,PHX,N. Richards
+PT04M06.00S,1,SUB out: K. Durant,PHX,K. Durant
+PT04M06.00S,1,SUB in: J. Mogbo,TOR,J. Mogbo
+PT04M06.00S,1,SUB in: S. Barnes,TOR,S. Barnes
+PT04M06.00S,1,SUB in: G. Allen,PHX,G. Allen
+PT04M06.00S,1,SUB in: M. Plumlee,PHX,M. Plumlee
+PT04M06.00S,1,B. Beal Free Throw 2 of 2 (5 PTS),PHX,B. Beal
+PT03M58.00S,1,D. Booker shooting personal FOUL (1 PF) (Barrett 2 FT),PHX,D. Booker
+PT03M58.00S,1,R. Barrett Free Throw 1 of 2 (5 PTS),TOR,R. Barrett
+PT03M58.00S,1,SUB out: B. Beal,PHX,B. Beal
+PT03M58.00S,1,SUB in: T. Jones,PHX,T. Jones
+PT03M58.00S,1,R. Barrett Free Throw 2 of 2 (6 PTS),TOR,R. Barrett
+PT03M44.00S,1,D. Booker 25' 3PT  (7 PTS) (T. Jones 1 AST),PHX,D. Booker
+PT03M35.00S,1,J. Shead bad pass out-of-bounds TURNOVER (1 TO),TOR,J. Shead
+PT03M18.00S,1,MISS R. Dunn 26' 3PT,PHX,R. Dunn
+PT03M15.00S,1,G. Allen REBOUND (Off:1 Def:0),PHX,G. Allen
+PT03M13.00S,1,MISS T. Jones 25' 3PT,PHX,T. Jones
+PT03M10.00S,1,J. Shead REBOUND (Off:0 Def:1),TOR,J. Shead
+PT02M56.00S,1,R. Barrett driving finger roll Layup (8 PTS) (J. Shead 1 AST),TOR,R. Barrett
+PT02M50.00S,1,PHX Timeout,PHX,
+PT02M50.00S,1,SUB out: R. Barrett,TOR,R. Barrett
+PT02M50.00S,1,SUB in: J. Walter,TOR,J. Walter
+PT02M34.00S,1,D. Booker 16' turnaround Jump Shot (9 PTS),PHX,D. Booker
+PT02M17.00S,1,MISS J. Shead 26' 3PT,TOR,J. Shead
+PT02M14.00S,1,M. Plumlee REBOUND (Off:0 Def:1),PHX,M. Plumlee
+PT02M08.00S,1,T. Jones bad pass out-of-bounds TURNOVER (1 TO),PHX,T. Jones
+PT01M55.00S,1,S. Barnes 19' pullup Jump Shot (2 PTS),TOR,S. Barnes
+PT01M46.00S,1,J. Shead personal FOUL (1 PF),TOR,J. Shead
+PT01M46.00S,1,SUB out: R. Dunn,PHX,R. Dunn
+PT01M46.00S,1,SUB in: B. Bol,PHX,B. Bol
+PT01M38.00S,1,D. Booker driving finger roll Layup (11 PTS),PHX,D. Booker
+PT01M27.00S,1,MISS J. Mogbo 24' 3PT,TOR,J. Mogbo
+PT01M23.00S,1,B. Bol REBOUND (Off:0 Def:1),PHX,B. Bol
+PT01M01.00S,1,MISS G. Allen driving finger roll Layup,PHX,G. Allen
+PT00M59.30S,1,J. Mogbo REBOUND (Off:0 Def:1),TOR,J. Mogbo
+PT00M53.90S,1,MISS J. Mogbo running Layup,TOR,J. Mogbo
+PT00M52.00S,1,G. Allen REBOUND (Off:1 Def:1),PHX,G. Allen
+PT00M45.90S,1,B. Bol 3PT  (3 PTS) (M. Plumlee 1 AST),PHX,B. Bol
+PT00M26.70S,1,J. Shead 25' 3PT  (3 PTS) (S. Barnes 1 AST),TOR,J. Shead
+PT00M09.50S,1,D. Booker off-the-ball offensive FOUL (2 PF),PHX,D. Booker
+PT00M09.50S,1,D. Booker offensive foul TURNOVER (1 TO),PHX,D. Booker
+PT00M09.50S,1,SUB out: O. Agbaji,TOR,O. Agbaji
+PT00M09.50S,1,SUB out: T. Jones,PHX,T. Jones
+PT00M09.50S,1,SUB in: I. Quickley,TOR,I. Quickley
+PT00M09.50S,1,SUB in: R. Dunn,PHX,R. Dunn
+PT00M09.50S,1,SUB out: D. Booker,PHX,D. Booker
+PT00M09.50S,1,SUB in: R. O'Neale,PHX,R. O'Neale
+PT00M00.40S,1,M. Plumlee shooting personal FOUL (1 PF) (Quickley 3 FT),PHX,M. Plumlee
+PT00M00.40S,1,I. Quickley Free Throw 1 of 3 (4 PTS),TOR,I. Quickley
+PT00M00.40S,1,I. Quickley Free Throw 2 of 3 (5 PTS),TOR,I. Quickley
+PT00M00.40S,1,MISS I. Quickley Free Throw 3 of 3,TOR,I. Quickley
+PT00M00.10S,1,G. Allen REBOUND (Off:1 Def:2),PHX,G. Allen
+PT00M00.00S,1,Period End,,
+PT12M00.00S,2,SUB out: J. Shead,TOR,J. Shead
+PT12M00.00S,2,SUB out: R. Dunn,PHX,R. Dunn
+PT12M00.00S,2,SUB out: R. O'Neale,PHX,R. O'Neale
+PT12M00.00S,2,SUB in: C. Boucher,TOR,C. Boucher
+PT12M00.00S,2,SUB in: T. Jones,PHX,T. Jones
+PT12M00.00S,2,SUB in: B. Beal,PHX,B. Beal
+PT12M00.00S,2,Period Start,,
+PT11M46.00S,2,S. Barnes 15' Jump Shot (4 PTS) (J. Mogbo 1 AST),TOR,S. Barnes
+PT11M21.00S,2,B. Beal 12' step back Jump Shot (7 PTS) (B. Bol 1 AST),PHX,B. Beal
+PT11M09.00S,2,MISS S. Barnes 18' Jump Shot,TOR,S. Barnes
+PT11M06.00S,2,T. Jones REBOUND (Off:0 Def:1),PHX,T. Jones
+PT10M48.00S,2,MISS G. Allen 3PT,PHX,G. Allen
+PT10M44.00S,2,S. Barnes REBOUND (Off:0 Def:3),TOR,S. Barnes
+PT10M40.00S,2,J. Walter running alley-oop Layup (2 PTS) (S. Barnes 2 AST),TOR,J. Walter
+PT10M31.00S,2,J. Walter personal FOUL (1 PF),TOR,J. Walter
+PT10M29.00S,2,G. Allen bad pass TURNOVER (1 TO),PHX,G. Allen
+PT10M29.00S,2,S. Barnes STEAL (1 STL),TOR,S. Barnes
+PT10M24.00S,2,MISS J. Mogbo running finger roll Layup,TOR,J. Mogbo
+PT10M23.00S,2,C. Boucher REBOUND (Off:1 Def:0),TOR,C. Boucher
+PT10M23.00S,2,C. Boucher tip DUNK (2 PTS),TOR,C. Boucher
+PT10M08.00S,2,B. Bol 10' turnaround fadeaway Jump Shot (5 PTS),PHX,B. Bol
+PT09M53.00S,2,MISS I. Quickley 28' pullup 3PT,TOR,I. Quickley
+PT09M50.00S,2,B. Bol REBOUND (Off:0 Def:2),PHX,B. Bol
+PT09M32.00S,2,B. Beal driving Hook (9 PTS),PHX,B. Beal
+PT09M23.00S,2,C. Boucher 27' 3PT  (5 PTS) (S. Barnes 3 AST),TOR,C. Boucher
+PT09M08.00S,2,T. Jones bad pass TURNOVER (2 TO),PHX,T. Jones
+PT09M08.00S,2,I. Quickley STEAL (2 STL),TOR,I. Quickley
+PT09M07.00S,2,T. Jones personal FOUL (1 PF),PHX,T. Jones
+PT09M07.00S,2,SUB out: M. Plumlee,PHX,M. Plumlee
+PT09M07.00S,2,SUB in: K. Durant,PHX,K. Durant
+PT08M55.00S,2,S. Barnes 25' 3PT  (7 PTS) (C. Boucher 1 AST),TOR,S. Barnes
+PT08M37.00S,2,B. Beal 6' driving floating Jump Shot (11 PTS),PHX,B. Beal
+PT08M08.00S,2,MISS S. Barnes 19' pullup Shot,TOR,S. Barnes
+PT08M05.00S,2,B. Bol REBOUND (Off:0 Def:3),PHX,B. Bol
+PT07M54.00S,2,B. Beal 11' pullup Jump Shot (13 PTS) (K. Durant 1 AST),PHX,B. Beal
+PT07M48.00S,2,TOR Timeout,TOR,
+PT07M48.00S,2,SUB out: S. Barnes,TOR,S. Barnes
+PT07M48.00S,2,SUB out: I. Quickley,TOR,I. Quickley
+PT07M48.00S,2,SUB out: J. Walter,TOR,J. Walter
+PT07M48.00S,2,SUB out: G. Allen,PHX,G. Allen
+PT07M48.00S,2,SUB out: B. Bol,PHX,B. Bol
+PT07M48.00S,2,SUB in: O. Agbaji,TOR,O. Agbaji
+PT07M48.00S,2,SUB in: J. Shead,TOR,J. Shead
+PT07M48.00S,2,SUB in: R. Barrett,TOR,R. Barrett
+PT07M48.00S,2,SUB in: R. O'Neale,PHX,R. O'Neale
+PT07M48.00S,2,SUB in: N. Richards,PHX,N. Richards
+PT07M41.00S,2,C. Boucher cutting DUNK (7 PTS) (R. Barrett 2 AST),TOR,C. Boucher
+PT07M29.00S,2,MISS B. Beal 7' driving floating bank Shot,PHX,B. Beal
+PT07M27.00S,2,C. Boucher REBOUND (Off:1 Def:1),TOR,C. Boucher
+PT07M23.00S,2,C. Boucher running Layup (9 PTS) (J. Mogbo 2 AST),TOR,C. Boucher
+PT07M09.00S,2,N. Richards 10' Jump Shot (4 PTS) (R. O'Neale 1 AST),PHX,N. Richards
+PT06M51.00S,2,MISS C. Boucher 24' 3PT,TOR,C. Boucher
+PT06M48.00S,2,N. Richards REBOUND (Off:1 Def:3),PHX,N. Richards
+PT06M35.00S,2,K. Durant 12' turnaround fadeaway Jump Shot (6 PTS),PHX,K. Durant
+PT06M22.00S,2,SUB out: J. Mogbo,TOR,J. Mogbo
+PT06M22.00S,2,SUB out: T. Jones,PHX,T. Jones
+PT06M22.00S,2,SUB in: G. Dick,TOR,G. Dick
+PT06M22.00S,2,SUB in: D. Booker,PHX,D. Booker
+PT06M20.00S,2,MISS G. Dick 18' Jump Shot,TOR,G. Dick
+PT06M18.00S,2,K. Durant REBOUND (Off:0 Def:2),PHX,K. Durant
+PT06M11.00S,2,K. Durant 8' driving floating bank Jump Shot (8 PTS),PHX,K. Durant
+PT06M11.00S,2,O. Agbaji shooting personal FOUL (1 PF) (Durant 1 FT),TOR,O. Agbaji
+PT06M11.00S,2,MISS K. Durant Free Throw 1 of 1,PHX,K. Durant
+PT06M09.00S,2,C. Boucher REBOUND (Off:1 Def:2),TOR,C. Boucher
+PT05M58.00S,2,C. Boucher cutting Layup (11 PTS) (R. Barrett 3 AST),TOR,C. Boucher
+PT05M53.00S,2,N. Richards bad pass TURNOVER (1 TO),PHX,N. Richards
+PT05M53.00S,2,O. Agbaji STEAL (1 STL),TOR,O. Agbaji
+PT05M52.00S,2,R. O'Neale shooting personal FOUL (1 PF) (Dick 2 FT),PHX,R. O'Neale
+PT05M52.00S,2,MISS G. Dick Free Throw 1 of 2,TOR,G. Dick
+PT05M52.00S,2,TEAM offensive REBOUND,TOR,
+PT05M52.00S,2,MISS G. Dick Free Throw 2 of 2,TOR,G. Dick
+PT05M50.00S,2,N. Richards REBOUND (Off:1 Def:4),PHX,N. Richards
+PT05M36.00S,2,N. Richards reverse Layup (6 PTS) (D. Booker 1 AST),PHX,N. Richards
+PT05M25.00S,2,R. Barrett bad pass TURNOVER (1 TO),TOR,R. Barrett
+PT05M25.00S,2,N. Richards STEAL (1 STL),PHX,N. Richards
+PT05M13.00S,2,MISS D. Booker 19' pullup Shot,PHX,D. Booker
+PT05M10.00S,2,C. Boucher REBOUND (Off:1 Def:3),TOR,C. Boucher
+PT05M05.00S,2,N. Richards shooting personal FOUL (1 PF) (Barrett 2 FT),PHX,N. Richards
+PT05M05.00S,2,MISS R. Barrett Free Throw 1 of 2,TOR,R. Barrett
+PT05M05.00S,2,TEAM offensive REBOUND,TOR,
+PT05M05.00S,2,R. Barrett Free Throw 2 of 2 (9 PTS),TOR,R. Barrett
+PT04M44.00S,2,N. Richards cutting DUNK (8 PTS) (D. Booker 2 AST),PHX,N. Richards
+PT04M28.00S,2,O. Agbaji driving finger roll Layup (2 PTS) (C. Boucher 2 AST),TOR,O. Agbaji
+PT04M20.00S,2,O. Agbaji personal FOUL (2 PF),TOR,O. Agbaji
+PT04M20.00S,2,SUB out: J. Shead,TOR,J. Shead
+PT04M20.00S,2,SUB out: O. Agbaji,TOR,O. Agbaji
+PT04M20.00S,2,SUB in: S. Barnes,TOR,S. Barnes
+PT04M20.00S,2,SUB in: I. Quickley,TOR,I. Quickley
+PT04M09.00S,2,MISS D. Booker 13' step back Shot,PHX,D. Booker
+PT04M06.00S,2,C. Boucher REBOUND (Off:1 Def:4),TOR,C. Boucher
+PT03M53.00S,2,S. Barnes lost ball TURNOVER (1 TO),TOR,S. Barnes
+PT03M53.00S,2,D. Booker STEAL (1 STL),PHX,D. Booker
+PT03M48.00S,2,B. Beal running finger roll Layup (15 PTS) (D. Booker 3 AST),PHX,B. Beal
+PT03M37.00S,2,C. Boucher 3PT  (14 PTS) (I. Quickley 2 AST),TOR,C. Boucher
+PT03M24.00S,2,MISS R. O'Neale 30' 3PT,PHX,R. O'Neale
+PT03M21.00S,2,I. Quickley REBOUND (Off:0 Def:3),TOR,I. Quickley
+PT03M17.00S,2,I. Quickley 25' 3PT running pullup (8 PTS),TOR,I. Quickley
+PT03M16.00S,2,PHX Timeout,PHX,
+PT03M16.00S,2,SUB out: C. Boucher,TOR,C. Boucher
+PT03M16.00S,2,SUB out: N. Richards,PHX,N. Richards
+PT03M16.00S,2,SUB in: O. Robinson,TOR,O. Robinson
+PT03M16.00S,2,SUB in: G. Allen,PHX,G. Allen
+PT02M59.00S,2,MISS R. O'Neale 24' 3PT,PHX,R. O'Neale
+PT02M57.00S,2,B. Beal REBOUND (Off:1 Def:1),PHX,B. Beal
+PT02M57.00S,2,I. Quickley shooting personal FOUL (2 PF) (Beal 2 FT),TOR,I. Quickley
+PT02M57.00S,2,B. Beal Free Throw 1 of 2 (16 PTS),PHX,B. Beal
+PT02M57.00S,2,B. Beal Free Throw 2 of 2 (17 PTS),PHX,B. Beal
+PT02M44.00S,2,O. Robinson lost ball TURNOVER (1 TO),TOR,O. Robinson
+PT02M44.00S,2,R. O'Neale STEAL (1 STL),PHX,R. O'Neale
+PT02M40.00S,2,MISS D. Booker 26' running pullup 3PT,PHX,D. Booker
+PT02M38.00S,2,O. Robinson REBOUND (Off:1 Def:1),TOR,O. Robinson
+PT02M31.00S,2,R. Barrett 10' driving floating bank Jump Shot (11 PTS),TOR,R. Barrett
+PT02M31.00S,2,R. O'Neale shooting personal FOUL (2 PF) (Barrett 1 FT),PHX,R. O'Neale
+PT02M31.00S,2,R. Barrett Free Throw 1 of 1 (12 PTS),TOR,R. Barrett
+PT02M17.00S,2,MISS K. Durant 10' driving floating Shot,PHX,K. Durant
+PT02M16.00S,2,I. Quickley REBOUND (Off:0 Def:4),TOR,I. Quickley
+PT02M06.00S,2,G. Dick bad pass TURNOVER (1 TO),TOR,G. Dick
+PT02M06.00S,2,K. Durant STEAL (1 STL),PHX,K. Durant
+PT01M52.00S,2,MISS D. Booker 17' driving floating bank Shot,PHX,D. Booker
+PT01M50.00S,2,O. Robinson REBOUND (Off:1 Def:2),TOR,O. Robinson
+PT01M46.00S,2,I. Quickley running alley-oop Layup (10 PTS) (G. Dick 1 AST),TOR,I. Quickley
+PT01M25.00S,2,R. Barrett shooting personal FOUL (1 PF) (Durant 2 FT),TOR,R. Barrett
+PT01M25.00S,2,K. Durant technical FOUL (1 Tech),PHX,K. Durant
+PT01M25.00S,2,I. Quickley technical Free Throw 1 of 1 (11 PTS),TOR,I. Quickley
+PT01M25.00S,2,K. Durant Free Throw 1 of 2 (9 PTS),PHX,K. Durant
+PT01M25.00S,2,SUB out: R. O'Neale,PHX,R. O'Neale
+PT01M25.00S,2,SUB in: M. Plumlee,PHX,M. Plumlee
+PT01M25.00S,2,K. Durant Free Throw 2 of 2 (10 PTS),PHX,K. Durant
+PT01M09.00S,2,MISS G. Dick 9' driving bank Hook,TOR,G. Dick
+PT01M08.00S,2,M. Plumlee REBOUND (Off:0 Def:2),PHX,M. Plumlee
+PT00M55.30S,2,K. Durant bad pass out-of-bounds TURNOVER (1 TO),PHX,K. Durant
+PT00M35.40S,2,I. Quickley 26' 3PT step back (14 PTS) (S. Barnes 4 AST),TOR,I. Quickley
+PT00M24.90S,2,MISS K. Durant 7' turnaround fadeaway Shot,PHX,K. Durant
+PT00M22.70S,2,S. Barnes REBOUND (Off:0 Def:4),TOR,S. Barnes
+PT00M04.50S,2,K. Durant shooting personal FOUL (1 PF) (Barnes 2 FT),PHX,K. Durant
+PT00M04.50S,2,S. Barnes Free Throw 1 of 2 (8 PTS),TOR,S. Barnes
+PT00M04.50S,2,SUB out: I. Quickley,TOR,I. Quickley
+PT00M04.50S,2,SUB in: O. Agbaji,TOR,O. Agbaji
+PT00M04.50S,2,S. Barnes Free Throw 2 of 2 (9 PTS),TOR,S. Barnes
+PT00M00.60S,2,O. Agbaji shooting personal FOUL (3 PF) (Beal 2 FT),TOR,O. Agbaji
+PT00M00.60S,2,B. Beal Free Throw 1 of 2 (18 PTS),PHX,B. Beal
+PT00M00.60S,2,SUB out: O. Agbaji,TOR,O. Agbaji
+PT00M00.60S,2,SUB in: I. Quickley,TOR,I. Quickley
+PT00M00.60S,2,MISS B. Beal Free Throw 2 of 2,PHX,B. Beal
+PT00M00.60S,2,S. Barnes REBOUND (Off:0 Def:5),TOR,S. Barnes
+PT00M00.00S,2,Period End,,
+PT12M00.00S,3,SUB out: G. Allen,PHX,G. Allen
+PT12M00.00S,3,SUB out: M. Plumlee,PHX,M. Plumlee
+PT12M00.00S,3,SUB in: R. O'Neale,PHX,R. O'Neale
+PT12M00.00S,3,SUB in: N. Richards,PHX,N. Richards
+PT12M00.00S,3,Period Start,,
+PT11M50.00S,3,S. Barnes alley-oop Layup (11 PTS) (R. Barrett 4 AST),TOR,S. Barnes
+PT11M33.00S,3,MISS B. Beal driving Layup,PHX,B. Beal
+PT11M28.00S,3,G. Dick REBOUND (Off:0 Def:2),TOR,G. Dick
+PT11M08.00S,3,MISS S. Barnes 7' finger roll Layup,TOR,S. Barnes
+PT11M07.00S,3,O. Robinson REBOUND (Off:2 Def:2),TOR,O. Robinson
+PT11M07.00S,3,K. Durant shooting personal FOUL (2 PF) (Robinson 2 FT),PHX,K. Durant
+PT11M07.00S,3,O. Robinson Free Throw 1 of 2 (3 PTS),TOR,O. Robinson
+PT11M07.00S,3,O. Robinson Free Throw 2 of 2 (4 PTS),TOR,O. Robinson
+PT10M48.00S,3,N. Richards cutting Layup (10 PTS) (D. Booker 4 AST),PHX,N. Richards
+PT10M34.00S,3,O. Robinson 8' turnaround Hook (6 PTS),TOR,O. Robinson
+PT10M21.00S,3,D. Booker 9' fadeaway Jump Shot (13 PTS),PHX,D. Booker
+PT10M10.00S,3,MISS I. Quickley 8' pullup Shot,TOR,I. Quickley
+PT10M08.00S,3,O. Robinson REBOUND (Off:3 Def:2),TOR,O. Robinson
+PT10M04.00S,3,MISS R. Barrett 24' 3PT,TOR,R. Barrett
+PT10M00.00S,3,N. Richards REBOUND (Off:1 Def:5),PHX,N. Richards
+PT09M50.00S,3,R. O'Neale 25' 3PT pullup (3 PTS) (D. Booker 5 AST),PHX,R. O'Neale
+PT09M29.00S,3,MISS R. Barrett 12' driving floating Shot,TOR,R. Barrett
+PT09M27.00S,3,R. Barrett REBOUND (Off:1 Def:1),TOR,R. Barrett
+PT09M25.00S,3,D. Booker personal FOUL (3 PF),PHX,D. Booker
+PT09M18.00S,3,MISS I. Quickley 11' driving floating Shot,TOR,I. Quickley
+PT09M15.00S,3,R. O'Neale REBOUND (Off:0 Def:2),PHX,R. O'Neale
+PT09M09.00S,3,N. Richards off-the-ball offensive FOUL (2 PF),PHX,N. Richards
+PT09M09.00S,3,N. Richards offensive foul TURNOVER (2 TO),PHX,N. Richards
+PT08M56.00S,3,MISS O. Robinson driving Hook - blocked,TOR,O. Robinson
+PT08M56.00S,3,N. Richards BLOCK (1 BLK),PHX,N. Richards
+PT08M54.00S,3,N. Richards REBOUND (Off:1 Def:6),PHX,N. Richards
+PT08M50.00S,3,R. O'Neale running finger roll Layup (5 PTS) (D. Booker 6 AST),PHX,R. O'Neale
+PT08M43.00S,3,S. Barnes off-the-ball offensive FOUL (1 PF),TOR,S. Barnes
+PT08M43.00S,3,S. Barnes offensive foul TURNOVER (2 TO),TOR,S. Barnes
+PT08M28.00S,3,D. Booker driving finger roll Layup (15 PTS),PHX,D. Booker
+PT08M27.00S,3,TOR Timeout,TOR,
+PT08M17.00S,3,MISS I. Quickley 26' pullup 3PT,TOR,I. Quickley
+PT08M15.00S,3,O. Robinson REBOUND (Off:4 Def:2),TOR,O. Robinson
+PT08M13.00S,3,O. Robinson lost ball TURNOVER (2 TO),TOR,O. Robinson
+PT08M13.00S,3,K. Durant STEAL (2 STL),PHX,K. Durant
+PT08M08.00S,3,MISS K. Durant 6' fadeaway bank Shot,PHX,K. Durant
+PT08M07.00S,3,TEAM defensive REBOUND,TOR,
+PT08M00.00S,3,MISS R. Barrett Layup - blocked,TOR,R. Barrett
+PT08M00.00S,3,R. O'Neale BLOCK (1 BLK),PHX,R. O'Neale
+PT08M00.00S,3,R. Barrett REBOUND (Off:2 Def:1),TOR,R. Barrett
+PT08M00.00S,3,N. Richards shooting personal FOUL (3 PF) (Barrett 2 FT),PHX,N. Richards
+PT08M00.00S,3,R. Barrett Free Throw 1 of 2 (13 PTS),TOR,R. Barrett
+PT08M00.00S,3,MISS R. Barrett Free Throw 2 of 2,TOR,R. Barrett
+PT07M57.00S,3,R. Barrett REBOUND (Off:3 Def:1),TOR,R. Barrett
+PT07M46.00S,3,S. Barnes 17' pullup Jump Shot (13 PTS) (R. Barrett 5 AST),TOR,S. Barnes
+PT07M35.00S,3,D. Booker 25' 3PT pullup (18 PTS),PHX,D. Booker

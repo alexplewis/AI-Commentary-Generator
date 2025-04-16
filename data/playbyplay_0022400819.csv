@@ -1,0 +1,123 @@
+time_remaining,quarter,event_description,team,player
+PT12M00.00S,1,Period Start,,
+PT11M55.00S,1,Jump Ball Z. Edey vs. J. Allen: Tip to J. Jackson Jr.,MEM,J. Jackson Jr.
+PT11M48.00S,1,MISS D. Bane 19' pullup Shot,MEM,D. Bane
+PT11M44.00S,1,E. Mobley REBOUND (Off:0 Def:1),CLE,E. Mobley
+PT11M37.00S,1,E. Mobley lost ball TURNOVER (1 TO),CLE,E. Mobley
+PT11M37.00S,1,J. Jackson Jr. STEAL (1 STL),MEM,J. Jackson Jr.
+PT11M33.00S,1,J. Wells running alley-oop Layup (2 PTS) (J. Morant 1 AST),MEM,J. Wells
+PT11M11.00S,1,MISS D. Mitchell 20' step back Shot,CLE,D. Mitchell
+PT11M09.00S,1,TEAM defensive REBOUND,MEM,
+PT10M59.00S,1,J. Morant 11' pullup Jump Shot (2 PTS),MEM,J. Morant
+PT10M36.00S,1,J. Allen cutting DUNK (2 PTS) (E. Mobley 1 AST),CLE,J. Allen
+PT10M27.00S,1,MISS J. Jackson Jr. 26' 3PT,MEM,J. Jackson Jr.
+PT10M25.00S,1,I. Okoro REBOUND (Off:0 Def:1),CLE,I. Okoro
+PT10M21.00S,1,J. Morant shooting personal FOUL (1 PF) (Okoro 2 FT),MEM,J. Morant
+PT10M21.00S,1,I. Okoro Free Throw 1 of 2 (1 PTS),CLE,I. Okoro
+PT10M21.00S,1,MISS I. Okoro Free Throw 2 of 2,CLE,I. Okoro
+PT10M19.00S,1,E. Mobley REBOUND (Off:1 Def:1),CLE,E. Mobley
+PT10M16.00S,1,E. Mobley putback Layup (2 PTS),CLE,E. Mobley
+PT10M07.00S,1,J. Jackson Jr. 9' driving floating Jump Shot (2 PTS) (D. Bane 1 AST),MEM,J. Jackson Jr.
+PT09M49.00S,1,MISS E. Mobley 24' pullup 3PT,CLE,E. Mobley
+PT09M47.00S,1,M. Strus REBOUND (Off:1 Def:0),CLE,M. Strus
+PT09M41.00S,1,MISS E. Mobley 24' 3PT,CLE,E. Mobley
+PT09M38.00S,1,J. Jackson Jr. REBOUND (Off:0 Def:1),MEM,J. Jackson Jr.
+PT09M33.00S,1,MISS D. Bane 6' driving Layup - blocked,MEM,D. Bane
+PT09M33.00S,1,M. Strus BLOCK (1 BLK),CLE,M. Strus
+PT09M33.00S,1,TEAM offensive REBOUND,MEM,
+PT09M31.00S,1,MISS Z. Edey 19' Jump Shot,MEM,Z. Edey
+PT09M28.00S,1,E. Mobley REBOUND (Off:1 Def:2),CLE,E. Mobley
+PT09M21.00S,1,D. Mitchell 25' 3PT pullup (3 PTS),CLE,D. Mitchell
+PT09M02.00S,1,MISS J. Jackson Jr. 20' Jump Shot,MEM,J. Jackson Jr.
+PT08M59.00S,1,I. Okoro REBOUND (Off:0 Def:2),CLE,I. Okoro
+PT08M50.00S,1,D. Mitchell 3PT turnaround (6 PTS),CLE,D. Mitchell
+PT08M35.00S,1,MISS J. Jackson Jr. 6' turnaround Hook - blocked,MEM,J. Jackson Jr.
+PT08M35.00S,1,E. Mobley BLOCK (1 BLK),CLE,E. Mobley
+PT08M33.00S,1,M. Strus REBOUND (Off:1 Def:1),CLE,M. Strus
+PT08M21.00S,1,MISS D. Mitchell 24' step back 3PT,CLE,D. Mitchell
+PT08M18.00S,1,D. Bane REBOUND (Off:0 Def:1),MEM,D. Bane
+PT08M09.00S,1,J. Morant 24' 3PT  (5 PTS) (D. Bane 2 AST),MEM,J. Morant
+PT07M54.00S,1,MISS M. Strus pullup 3PT,CLE,M. Strus
+PT07M51.00S,1,J. Jackson Jr. REBOUND (Off:0 Def:2),MEM,J. Jackson Jr.
+PT07M44.00S,1,MISS D. Bane 24' step back 3PT,MEM,D. Bane
+PT07M40.00S,1,J. Allen REBOUND (Off:0 Def:1),CLE,J. Allen
+PT07M30.00S,1,E. Mobley driving DUNK (4 PTS),CLE,E. Mobley
+PT07M14.00S,1,J. Morant 26' 3PT  (8 PTS) (D. Bane 3 AST),MEM,J. Morant
+PT07M13.00S,1,CLE Timeout,CLE,
+PT07M13.00S,1,SUB out: E. Mobley,CLE,E. Mobley
+PT07M13.00S,1,SUB out: Z. Edey,MEM,Z. Edey
+PT07M13.00S,1,SUB in: D. Hunter,CLE,D. Hunter
+PT07M13.00S,1,SUB in: B. Clarke,MEM,B. Clarke
+PT06M57.00S,1,MISS I. Okoro 26' 3PT,CLE,I. Okoro
+PT06M57.00S,1,TEAM offensive REBOUND,CLE,
+PT06M57.00S,1,J. Jackson Jr. loose ball personal FOUL (1 PF),MEM,J. Jackson Jr.
+PT06M57.00S,1,SUB out: J. Jackson Jr.,MEM,J. Jackson Jr.
+PT06M57.00S,1,SUB in: S. Aldama,MEM,S. Aldama
+PT06M51.00S,1,MISS J. Allen 9' driving Layup - blocked,CLE,J. Allen
+PT06M51.00S,1,S. Aldama BLOCK (1 BLK),MEM,S. Aldama
+PT06M44.00S,1,J. Morant REBOUND (Off:0 Def:1),MEM,J. Morant
+PT06M35.00S,1,J. Wells 3PT  (5 PTS),MEM,J. Wells
+PT06M16.00S,1,D. Mitchell 15' pullup Jump Shot (8 PTS),CLE,D. Mitchell
+PT06M07.00S,1,D. Mitchell personal FOUL (1 PF),CLE,D. Mitchell
+PT06M07.00S,1,SUB out: D. Bane,MEM,D. Bane
+PT06M07.00S,1,SUB in: G. Jackson,MEM,G. Jackson
+PT06M07.00S,1,J. Wells step out-of-bounds TURNOVER (1 TO),MEM,J. Wells
+PT05M57.00S,1,D. Hunter 10' driving floating bank Jump Shot (2 PTS),CLE,D. Hunter
+PT05M40.00S,1,B. Clarke 7' floating Jump Shot (2 PTS) (G. Jackson 1 AST),MEM,B. Clarke
+PT05M29.00S,1,D. Mitchell 7' driving Hook (10 PTS),CLE,D. Mitchell
+PT05M17.00S,1,MISS J. Wells 6' driving Layup,MEM,J. Wells
+PT05M14.00S,1,B. Clarke REBOUND (Off:1 Def:0),MEM,B. Clarke
+PT05M11.00S,1,MISS G. Jackson 24' 3PT,MEM,G. Jackson
+PT05M09.00S,1,I. Okoro REBOUND (Off:0 Def:3),CLE,I. Okoro
+PT05M01.00S,1,MISS M. Strus 27' 3PT,CLE,M. Strus
+PT04M56.00S,1,J. Allen REBOUND (Off:1 Def:1),CLE,J. Allen
+PT04M55.00S,1,MISS D. Mitchell 27' 3PT,CLE,D. Mitchell
+PT04M53.00S,1,M. Strus REBOUND (Off:2 Def:1),CLE,M. Strus
+PT04M51.00S,1,D. Mitchell driving Layup (12 PTS) (D. Hunter 1 AST),CLE,D. Mitchell
+PT04M51.00S,1,MEM Timeout,MEM,
+PT04M51.00S,1,SUB out: M. Strus,CLE,M. Strus
+PT04M51.00S,1,SUB out: I. Okoro,CLE,I. Okoro
+PT04M51.00S,1,SUB out: J. Wells,MEM,J. Wells
+PT04M51.00S,1,SUB in: S. Merrill,CLE,S. Merrill
+PT04M51.00S,1,SUB in: T. Jerome,CLE,T. Jerome
+PT04M51.00S,1,SUB in: V. Williams Jr.,MEM,V. Williams Jr.
+PT04M33.00S,1,J. Morant bad pass TURNOVER (1 TO),MEM,J. Morant
+PT04M33.00S,1,S. Merrill STEAL (1 STL),CLE,S. Merrill
+PT04M31.00S,1,MISS S. Merrill 27' running 3PT,CLE,S. Merrill
+PT04M29.00S,1,D. Mitchell REBOUND (Off:1 Def:0),CLE,D. Mitchell
+PT04M17.00S,1,MISS D. Mitchell driving Layup,CLE,D. Mitchell
+PT04M14.00S,1,B. Clarke REBOUND (Off:1 Def:1),MEM,B. Clarke
+PT04M06.00S,1,V. Williams Jr. 3PT  (3 PTS) (J. Morant 2 AST),MEM,V. Williams Jr.
+PT03M54.00S,1,MISS D. Hunter 15' step back Shot,CLE,D. Hunter
+PT03M54.00S,1,J. Allen REBOUND (Off:2 Def:1),CLE,J. Allen
+PT03M54.00S,1,V. Williams Jr. personal FOUL (1 PF),MEM,V. Williams Jr.
+PT03M54.00S,1,SUB out: J. Allen,CLE,J. Allen
+PT03M54.00S,1,SUB out: D. Mitchell,CLE,D. Mitchell
+PT03M54.00S,1,SUB in: E. Mobley,CLE,E. Mobley
+PT03M54.00S,1,SUB in: D. Wade,CLE,D. Wade
+PT03M49.00S,1,MISS S. Merrill 26' 3PT,CLE,S. Merrill
+PT03M45.00S,1,E. Mobley REBOUND (Off:2 Def:2),CLE,E. Mobley
+PT03M43.00S,1,E. Mobley putback Layup (6 PTS),CLE,E. Mobley
+PT03M33.00S,1,MISS V. Williams Jr. driving Layup - blocked,MEM,V. Williams Jr.
+PT03M33.00S,1,E. Mobley BLOCK (2 BLK),CLE,E. Mobley
+PT03M29.00S,1,E. Mobley REBOUND (Off:2 Def:3),CLE,E. Mobley
+PT03M25.00S,1,MISS T. Jerome 24' running pullup 3PT,CLE,T. Jerome
+PT03M23.00S,1,D. Wade REBOUND (Off:1 Def:0),CLE,D. Wade
+PT03M15.00S,1,MISS S. Merrill 24' 3PT,CLE,S. Merrill
+PT03M12.00S,1,S. Aldama REBOUND (Off:0 Def:1),MEM,S. Aldama
+PT03M03.00S,1,MISS G. Jackson 3PT,MEM,G. Jackson
+PT02M59.00S,1,D. Wade REBOUND (Off:1 Def:1),CLE,D. Wade
+PT02M56.00S,1,G. Jackson shooting personal FOUL (1 PF) (Jerome 2 FT),MEM,G. Jackson
+PT02M56.00S,1,T. Jerome Free Throw 1 of 2 (1 PTS),CLE,T. Jerome
+PT02M56.00S,1,SUB out: J. Morant,MEM,J. Morant
+PT02M56.00S,1,SUB out: B. Clarke,MEM,B. Clarke
+PT02M56.00S,1,SUB in: L. Kennard,MEM,L. Kennard
+PT02M56.00S,1,SUB in: J. Jackson Jr.,MEM,J. Jackson Jr.
+PT02M56.00S,1,T. Jerome Free Throw 2 of 2 (2 PTS),CLE,T. Jerome
+PT02M46.00S,1,T. Jerome personal FOUL (1 PF),CLE,T. Jerome
+PT02M30.00S,1,MISS J. Jackson Jr. 8' driving floating Shot,MEM,J. Jackson Jr.
+PT02M27.00S,1,D. Hunter REBOUND (Off:0 Def:1),CLE,D. Hunter
+PT02M23.00S,1,MISS D. Hunter 25' running 3PT,CLE,D. Hunter
+PT02M21.00S,1,D. Wade REBOUND (Off:2 Def:1),CLE,D. Wade
+PT02M08.00S,1,T. Jerome 18' shot (4 PTS),CLE,T. Jerome
+PT02M08.00S,1,MEM Timeout,MEM,

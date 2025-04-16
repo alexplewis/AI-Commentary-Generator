@@ -1,0 +1,563 @@
+time_remaining,quarter,event_description,team,player
+PT12M00.00S,1,Period Start,,
+PT11M58.00S,1,Jump Ball I. Zubac vs. M. Turner: Tip to J. Harden,LAC,J. Harden
+PT11M46.00S,1,MISS D. Jones Jr. 11' floating Shot,LAC,D. Jones Jr.
+PT11M43.00S,1,P. Siakam REBOUND (Off:0 Def:1),IND,P. Siakam
+PT11M29.00S,1,A. Nembhard lost ball TURNOVER (1 TO),IND,A. Nembhard
+PT11M29.00S,1,K. Dunn STEAL (1 STL),LAC,K. Dunn
+PT11M18.00S,1,MISS D. Jones Jr. 3PT,LAC,D. Jones Jr.
+PT11M15.00S,1,P. Siakam REBOUND (Off:0 Def:2),IND,P. Siakam
+PT11M02.00S,1,A. Nembhard driving finger roll Layup (2 PTS) (M. Turner 1 AST),IND,A. Nembhard
+PT10M55.00S,1,D. Jones Jr. bad pass TURNOVER (1 TO),LAC,D. Jones Jr.
+PT10M55.00S,1,A. Nembhard STEAL (1 STL),IND,A. Nembhard
+PT10M41.00S,1,M. Turner bad pass TURNOVER (1 TO),IND,M. Turner
+PT10M41.00S,1,D. Jones Jr. STEAL (1 STL),LAC,D. Jones Jr.
+PT10M31.00S,1,MISS K. Dunn 24' 3PT,LAC,K. Dunn
+PT10M27.00S,1,TEAM defensive REBOUND,IND,
+PT10M05.00S,1,MISS P. Siakam 25' 3PT,IND,P. Siakam
+PT10M02.00S,1,J. Harden REBOUND (Off:0 Def:1),LAC,J. Harden
+PT09M59.00S,1,MISS J. Harden 25' running pullup 3PT,LAC,J. Harden
+PT09M56.00S,1,M. Turner REBOUND (Off:0 Def:1),IND,M. Turner
+PT09M35.00S,1,MISS T. Haliburton 17' step back Shot,IND,T. Haliburton
+PT09M32.00S,1,K. Dunn REBOUND (Off:0 Def:1),LAC,K. Dunn
+PT09M29.00S,1,MISS A. Coffey 25' running 3PT,LAC,A. Coffey
+PT09M26.00S,1,P. Siakam REBOUND (Off:0 Def:3),IND,P. Siakam
+PT09M14.00S,1,P. Siakam cutting Layup (2 PTS) (M. Turner 2 AST),IND,P. Siakam
+PT08M54.00S,1,MISS D. Jones Jr. 25' 3PT,LAC,D. Jones Jr.
+PT08M52.00S,1,A. Nesmith REBOUND (Off:0 Def:1),IND,A. Nesmith
+PT08M46.00S,1,MISS A. Nembhard running 3PT,IND,A. Nembhard
+PT08M43.00S,1,I. Zubac REBOUND (Off:0 Def:1),LAC,I. Zubac
+PT08M27.00S,1,M. Turner personal FOUL (1 PF),IND,M. Turner
+PT08M21.00S,1,J. Harden 27' 3PT step back (3 PTS) (I. Zubac 1 AST),LAC,J. Harden
+PT08M09.00S,1,MISS M. Turner 27' 3PT,IND,M. Turner
+PT08M07.00S,1,A. Nesmith REBOUND (Off:1 Def:1),IND,A. Nesmith
+PT08M05.00S,1,A. Nesmith 3PT pullup (3 PTS),IND,A. Nesmith
+PT07M47.00S,1,J. Harden 27' 3PT step back (6 PTS) (I. Zubac 2 AST),LAC,J. Harden
+PT07M39.00S,1,A. Coffey shooting personal FOUL (1 PF) (Nembhard 2 FT),LAC,A. Coffey
+PT07M39.00S,1,A. Nembhard Free Throw 1 of 2 (3 PTS),IND,A. Nembhard
+PT07M39.00S,1,A. Nembhard Free Throw 2 of 2 (4 PTS),IND,A. Nembhard
+PT07M23.00S,1,D. Jones Jr. alley-oop DUNK (2 PTS) (J. Harden 1 AST),LAC,D. Jones Jr.
+PT07M07.00S,1,M. Turner 26' 3PT  (3 PTS) (T. Haliburton 1 AST),IND,M. Turner
+PT06M44.00S,1,K. Dunn 10' turnaround Jump Shot (2 PTS) (J. Harden 2 AST),LAC,K. Dunn
+PT06M30.00S,1,M. Turner 27' 3PT step back (6 PTS) (T. Haliburton 2 AST),IND,M. Turner
+PT06M03.00S,1,J. Harden 29' 3PT pullup (9 PTS) (A. Coffey 1 AST),LAC,J. Harden
+PT05M50.00S,1,M. Turner cutting Layup (8 PTS) (T. Haliburton 3 AST),IND,M. Turner
+PT05M50.00S,1,J. Harden shooting personal FOUL (1 PF) (Turner 1 FT),LAC,J. Harden
+PT05M50.00S,1,IND Timeout,IND,
+PT05M50.00S,1,SUB out: P. Siakam,IND,P. Siakam
+PT05M50.00S,1,SUB out: A. Nesmith,IND,A. Nesmith
+PT05M50.00S,1,SUB in: B. Mathurin,IND,B. Mathurin
+PT05M50.00S,1,SUB in: O. Toppin,IND,O. Toppin
+PT05M50.00S,1,M. Turner Free Throw 1 of 1 (9 PTS),IND,M. Turner
+PT05M50.00S,1,J. Harden inbound TURNOVER (1 TO),LAC,J. Harden
+PT05M36.00S,1,MISS B. Mathurin 25' pullup 3PT,IND,B. Mathurin
+PT05M32.00S,1,O. Toppin REBOUND (Off:1 Def:0),IND,O. Toppin
+PT05M30.00S,1,T. Haliburton 29' 3PT  (3 PTS) (O. Toppin 1 AST),IND,T. Haliburton
+PT05M13.00S,1,A. Coffey driving Layup (2 PTS) (J. Harden 3 AST),LAC,A. Coffey
+PT05M03.00S,1,MISS M. Turner 26' 3PT,IND,M. Turner
+PT05M00.00S,1,A. Coffey REBOUND (Off:0 Def:1),LAC,A. Coffey
+PT04M52.00S,1,MISS D. Jones Jr. 3PT,LAC,D. Jones Jr.
+PT04M50.00S,1,A. Nembhard REBOUND (Off:0 Def:1),IND,A. Nembhard
+PT04M46.00S,1,B. Mathurin running alley-oop DUNK (2 PTS) (O. Toppin 2 AST),IND,B. Mathurin
+PT04M20.00S,1,B. Mathurin defensive-3-second technical FOUL (1 Tech),IND,B. Mathurin
+PT04M20.00S,1,J. Harden technical Free Throw 1 of 1 (10 PTS),LAC,J. Harden
+PT04M20.00S,1,SUB out: M. Turner,IND,M. Turner
+PT04M20.00S,1,SUB out: D. Jones Jr.,LAC,D. Jones Jr.
+PT04M20.00S,1,SUB in: T. Bryant,IND,T. Bryant
+PT04M20.00S,1,SUB in: B. Bogdanović,LAC,B. Bogdanović
+PT04M10.00S,1,T. Bryant shooting personal FOUL (1 PF) (Harden 2 FT),IND,T. Bryant
+PT04M10.00S,1,J. Harden Free Throw 1 of 2 (11 PTS),LAC,J. Harden
+PT04M10.00S,1,J. Harden Free Throw 2 of 2 (12 PTS),LAC,J. Harden
+PT03M55.00S,1,A. Nembhard 19' step back Jump Shot (6 PTS) (T. Bryant 1 AST),IND,A. Nembhard
+PT03M40.00S,1,J. Harden bad pass TURNOVER (2 TO),LAC,J. Harden
+PT03M40.00S,1,O. Toppin STEAL (1 STL),IND,O. Toppin
+PT03M20.00S,1,O. Toppin Layup (2 PTS) (B. Mathurin 1 AST),IND,O. Toppin
+PT03M04.00S,1,I. Zubac alley-oop DUNK (2 PTS) (J. Harden 4 AST),LAC,I. Zubac
+PT02M49.00S,1,MISS B. Mathurin 8' driving floating Shot,IND,B. Mathurin
+PT02M47.00S,1,I. Zubac REBOUND (Off:0 Def:2),LAC,I. Zubac
+PT02M44.00S,1,A. Nembhard shooting personal FOUL (1 PF) (Coffey 2 FT),IND,A. Nembhard
+PT02M44.00S,1,LAC Timeout,LAC,
+PT02M44.00S,1,SUB out: T. Haliburton,IND,T. Haliburton
+PT02M44.00S,1,SUB out: A. Nembhard,IND,A. Nembhard
+PT02M44.00S,1,SUB out: T. Bryant,IND,T. Bryant
+PT02M44.00S,1,SUB out: K. Dunn,LAC,K. Dunn
+PT02M44.00S,1,SUB out: I. Zubac,LAC,I. Zubac
+PT02M44.00S,1,SUB in: T. McConnell,IND,T. McConnell
+PT02M44.00S,1,SUB in: A. Nesmith,IND,A. Nesmith
+PT02M44.00S,1,SUB in: P. Siakam,IND,P. Siakam
+PT02M44.00S,1,SUB in: D. Eubanks,LAC,D. Eubanks
+PT02M44.00S,1,SUB in: B. Simmons,LAC,B. Simmons
+PT02M44.00S,1,A. Coffey Free Throw 1 of 2 (3 PTS),LAC,A. Coffey
+PT02M44.00S,1,A. Coffey Free Throw 2 of 2 (4 PTS),LAC,A. Coffey
+PT02M20.00S,1,MISS O. Toppin 29' 3PT,IND,O. Toppin
+PT02M16.00S,1,B. Simmons REBOUND (Off:0 Def:1),LAC,B. Simmons
+PT02M14.00S,1,SUB out: A. Coffey,LAC,A. Coffey
+PT02M14.00S,1,SUB in: N. Batum,LAC,N. Batum
+PT02M03.00S,1,MISS B. Bogdanović 27' 3PT,LAC,B. Bogdanović
+PT02M00.00S,1,TEAM defensive REBOUND,IND,
+PT01M43.00S,1,MISS P. Siakam 27' 3PT,IND,P. Siakam
+PT01M40.00S,1,B. Bogdanović REBOUND (Off:0 Def:1),LAC,B. Bogdanović
+PT01M24.00S,1,O. Toppin shooting personal FOUL (1 PF) (Bogdanović 2 FT),IND,O. Toppin
+PT01M24.00S,1,B. Bogdanović Free Throw 1 of 2 (1 PTS),LAC,B. Bogdanović
+PT01M24.00S,1,SUB out: A. Nesmith,IND,A. Nesmith
+PT01M24.00S,1,SUB in: B. Sheppard,IND,B. Sheppard
+PT01M24.00S,1,MISS B. Bogdanović Free Throw 2 of 2,LAC,B. Bogdanović
+PT01M23.00S,1,B. Sheppard REBOUND (Off:0 Def:1),IND,B. Sheppard
+PT01M11.00S,1,T. McConnell 15' pullup Jump Shot (2 PTS) (O. Toppin 3 AST),IND,T. McConnell
+PT00M55.50S,1,MISS B. Simmons 7' turnaround Hook,LAC,B. Simmons
+PT00M53.10S,1,P. Siakam REBOUND (Off:0 Def:4),IND,P. Siakam
+PT00M44.70S,1,B. Mathurin 20' step back Jump Shot (4 PTS),IND,B. Mathurin
+PT00M33.00S,1,B. Sheppard shooting personal FOUL (1 PF) (Harden 2 FT),IND,B. Sheppard
+PT00M33.00S,1,MISS J. Harden Free Throw 1 of 2,LAC,J. Harden
+PT00M33.00S,1,TEAM offensive REBOUND,LAC,
+PT00M33.00S,1,J. Harden Free Throw 2 of 2 (13 PTS),LAC,J. Harden
+PT00M10.50S,1,O. Toppin lost ball TURNOVER (1 TO),IND,O. Toppin
+PT00M10.50S,1,B. Bogdanović STEAL (1 STL),LAC,B. Bogdanović
+PT00M03.30S,1,MISS J. Harden 29' step back 3PT,LAC,J. Harden
+PT00M03.30S,1,B. Sheppard REBOUND (Off:0 Def:2),IND,B. Sheppard
+PT00M00.00S,1,Period End,,
+PT12M00.00S,2,SUB out: J. Harden,LAC,J. Harden
+PT12M00.00S,2,SUB in: D. Jones Jr.,LAC,D. Jones Jr.
+PT12M00.00S,2,Period Start,,
+PT11M43.00S,2,MISS O. Toppin 24' 3PT,IND,O. Toppin
+PT11M40.00S,2,N. Batum REBOUND (Off:0 Def:1),LAC,N. Batum
+PT11M32.00S,2,D. Jones Jr. driving finger roll Layup (4 PTS) (B. Simmons 1 AST),LAC,D. Jones Jr.
+PT11M22.00S,2,MISS B. Sheppard 3PT,IND,B. Sheppard
+PT11M20.00S,2,B. Simmons REBOUND (Off:0 Def:2),LAC,B. Simmons
+PT11M15.00S,2,MISS B. Bogdanović 27' running 3PT,LAC,B. Bogdanović
+PT11M11.00S,2,B. Sheppard REBOUND (Off:0 Def:3),IND,B. Sheppard
+PT11M11.00S,2,N. Batum personal FOUL (1 PF),LAC,N. Batum
+PT11M11.00S,2,SUB out: O. Toppin,IND,O. Toppin
+PT11M11.00S,2,SUB in: M. Turner,IND,M. Turner
+PT10M54.00S,2,MISS B. Mathurin 25' pullup 3PT,IND,B. Mathurin
+PT10M50.00S,2,P. Siakam REBOUND (Off:1 Def:4),IND,P. Siakam
+PT10M49.00S,2,T. McConnell 26' 3PT  (5 PTS) (P. Siakam 1 AST),IND,T. McConnell
+PT10M24.00S,2,T. McConnell personal FOUL (1 PF),IND,T. McConnell
+PT10M19.00S,2,MISS B. Simmons driving Layup,LAC,B. Simmons
+PT10M17.00S,2,M. Turner REBOUND (Off:0 Def:2),IND,M. Turner
+PT10M10.00S,2,MISS P. Siakam Layup,IND,P. Siakam
+PT10M06.00S,2,N. Batum REBOUND (Off:0 Def:2),LAC,N. Batum
+PT09M59.00S,2,D. Jones Jr. cutting DUNK (6 PTS) (B. Bogdanović 1 AST),LAC,D. Jones Jr.
+PT09M48.00S,2,B. Bogdanović shooting personal FOUL (1 PF) (McConnell 2 FT),LAC,B. Bogdanović
+PT09M48.00S,2,T. McConnell Free Throw 1 of 2 (6 PTS),IND,T. McConnell
+PT09M48.00S,2,T. McConnell Free Throw 2 of 2 (7 PTS),IND,T. McConnell
+PT09M32.00S,2,MISS B. Bogdanović 22' Jump Shot,LAC,B. Bogdanović
+PT09M29.00S,2,P. Siakam REBOUND (Off:1 Def:5),IND,P. Siakam
+PT09M25.00S,2,MISS B. Sheppard running 3PT,IND,B. Sheppard
+PT09M22.00S,2,TEAM defensive REBOUND,LAC,
+PT09M02.00S,2,MISS D. Eubanks Layup - blocked,LAC,D. Eubanks
+PT09M02.00S,2,M. Turner BLOCK (1 BLK),IND,M. Turner
+PT08M59.00S,2,M. Turner REBOUND (Off:0 Def:3),IND,M. Turner
+PT08M54.00S,2,T. McConnell driving Layup (9 PTS),IND,T. McConnell
+PT08M32.00S,2,B. Bogdanović 13' fadeaway Jump Shot (3 PTS) (D. Eubanks 1 AST),LAC,B. Bogdanović
+PT08M20.00S,2,N. Batum shooting personal FOUL (2 PF) (Turner 2 FT),LAC,N. Batum
+PT08M20.00S,2,M. Turner Free Throw 1 of 2 (10 PTS),IND,M. Turner
+PT08M20.00S,2,SUB out: D. Eubanks,LAC,D. Eubanks
+PT08M20.00S,2,SUB in: I. Zubac,LAC,I. Zubac
+PT08M20.00S,2,M. Turner Free Throw 2 of 2 (11 PTS),IND,M. Turner
+PT08M04.00S,2,MISS B. Bogdanović 27' 3PT,LAC,B. Bogdanović
+PT08M01.00S,2,TEAM defensive REBOUND,IND,
+PT07M49.00S,2,I. Zubac shooting personal FOUL (1 PF) (Mathurin 2 FT),LAC,I. Zubac
+PT07M49.00S,2,B. Mathurin Free Throw 1 of 2 (5 PTS),IND,B. Mathurin
+PT07M49.00S,2,SUB out: M. Turner,IND,M. Turner
+PT07M49.00S,2,SUB out: P. Siakam,IND,P. Siakam
+PT07M49.00S,2,SUB in: O. Toppin,IND,O. Toppin
+PT07M49.00S,2,SUB in: T. Bryant,IND,T. Bryant
+PT07M49.00S,2,B. Mathurin Free Throw 2 of 2 (6 PTS),IND,B. Mathurin
+PT07M35.00S,2,I. Zubac 9' Hook (4 PTS),LAC,I. Zubac
+PT07M24.00S,2,O. Toppin offensive goaltending TURNOVER (2 TO),IND,O. Toppin
+PT07M24.00S,2,SUB out: T. McConnell,IND,T. McConnell
+PT07M24.00S,2,SUB out: B. Sheppard,IND,B. Sheppard
+PT07M24.00S,2,SUB out: B. Simmons,LAC,B. Simmons
+PT07M24.00S,2,SUB in: T. Haliburton,IND,T. Haliburton
+PT07M24.00S,2,SUB in: A. Nembhard,IND,A. Nembhard
+PT07M24.00S,2,SUB in: J. Harden,LAC,J. Harden
+PT07M06.00S,2,I. Zubac Layup (6 PTS),LAC,I. Zubac
+PT06M48.00S,2,MISS T. Haliburton 29' pullup 3PT,IND,T. Haliburton
+PT06M45.00S,2,J. Harden REBOUND (Off:0 Def:2),LAC,J. Harden
+PT06M39.00S,2,J. Harden running Layup (15 PTS),LAC,J. Harden
+PT06M39.00S,2,IND Timeout,IND,
+PT06M39.00S,2,SUB out: B. Mathurin,IND,B. Mathurin
+PT06M39.00S,2,SUB out: T. Bryant,IND,T. Bryant
+PT06M39.00S,2,SUB out: B. Bogdanović,LAC,B. Bogdanović
+PT06M39.00S,2,SUB out: N. Batum,LAC,N. Batum
+PT06M39.00S,2,SUB in: A. Nesmith,IND,A. Nesmith
+PT06M39.00S,2,SUB in: M. Turner,IND,M. Turner
+PT06M39.00S,2,SUB in: A. Coffey,LAC,A. Coffey
+PT06M39.00S,2,SUB in: K. Dunn,LAC,K. Dunn
+PT06M19.00S,2,A. Nembhard driving reverse Layup (8 PTS) (T. Haliburton 4 AST),IND,A. Nembhard
+PT06M03.00S,2,I. Zubac bank Hook (8 PTS) (J. Harden 5 AST),LAC,I. Zubac
+PT05M52.00S,2,M. Turner 25' 3PT  (14 PTS) (T. Haliburton 5 AST),IND,M. Turner
+PT05M32.00S,2,MISS K. Dunn 28' 3PT,LAC,K. Dunn
+PT05M29.00S,2,A. Nembhard REBOUND (Off:0 Def:2),IND,A. Nembhard
+PT05M07.00S,2,MISS T. Haliburton 26' pullup 3PT - blocked,IND,T. Haliburton
+PT05M07.00S,2,J. Harden BLOCK (1 BLK),LAC,J. Harden
+PT05M06.00S,2,K. Dunn REBOUND (Off:0 Def:2),LAC,K. Dunn
+PT04M59.00S,2,MISS D. Jones Jr. 26' 3PT,LAC,D. Jones Jr.
+PT04M55.00S,2,T. Haliburton REBOUND (Off:0 Def:1),IND,T. Haliburton
+PT04M42.00S,2,MISS M. Turner 11' bank Shot,IND,M. Turner
+PT04M39.00S,2,O. Toppin REBOUND (Off:2 Def:0),IND,O. Toppin
+PT04M39.00S,2,O. Toppin tip DUNK (4 PTS),IND,O. Toppin
+PT04M27.00S,2,A. Nembhard personal FOUL (2 PF),IND,A. Nembhard
+PT04M23.00S,2,A. Coffey 26' 3PT  (7 PTS) (J. Harden 6 AST),LAC,A. Coffey
+PT04M15.00S,2,MISS A. Nembhard driving finger roll Layup,IND,A. Nembhard
+PT04M11.00S,2,A. Nembhard REBOUND (Off:1 Def:2),IND,A. Nembhard
+PT04M11.00S,2,MISS A. Nembhard tip Layup,IND,A. Nembhard
+PT04M11.00S,2,I. Zubac REBOUND (Off:0 Def:3),LAC,I. Zubac
+PT04M05.00S,2,J. Harden 24' 3PT step back (18 PTS),LAC,J. Harden
+PT03M59.00S,2,A. Nesmith driving Layup (5 PTS) (T. Haliburton 6 AST),IND,A. Nesmith
+PT03M59.00S,2,A. Coffey shooting personal FOUL (2 PF) (Nesmith 1 FT),LAC,A. Coffey
+PT03M59.00S,2,A. Nesmith Free Throw 1 of 1 (6 PTS),IND,A. Nesmith
+PT03M44.00S,2,MISS A. Coffey 24' 3PT,LAC,A. Coffey
+PT03M41.00S,2,M. Turner REBOUND (Off:0 Def:4),IND,M. Turner
+PT03M30.00S,2,O. Toppin driving DUNK (6 PTS) (T. Haliburton 7 AST),IND,O. Toppin
+PT03M15.00S,2,MISS J. Harden 29' step back 3PT,LAC,J. Harden
+PT03M12.00S,2,A. Nembhard REBOUND (Off:1 Def:3),IND,A. Nembhard
+PT03M05.00S,2,T. Haliburton 13' floating Jump Shot (5 PTS),IND,T. Haliburton
+PT03M03.00S,2,LAC Timeout,LAC,
+PT03M03.00S,2,SUB out: D. Jones Jr.,LAC,D. Jones Jr.
+PT03M03.00S,2,SUB in: B. Bogdanović,LAC,B. Bogdanović
+PT02M50.00S,2,J. Harden driving Layup (20 PTS),LAC,J. Harden
+PT02M33.00S,2,A. Nesmith driving Layup (8 PTS) (O. Toppin 4 AST),IND,A. Nesmith
+PT02M20.00S,2,A. Nesmith personal FOUL (1 PF),IND,A. Nesmith
+PT02M20.00S,2,TEAM foul technical,LAC,
+PT02M20.00S,2,T. Haliburton technical Free Throw 1 of 1 (6 PTS),IND,T. Haliburton
+PT02M20.00S,2,SUB out: O. Toppin,IND,O. Toppin
+PT02M20.00S,2,SUB in: P. Siakam,IND,P. Siakam
+PT02M13.00S,2,A. Nembhard personal FOUL (3 PF),IND,A. Nembhard
+PT02M13.00S,2,SUB out: A. Nembhard,IND,A. Nembhard
+PT02M13.00S,2,SUB in: B. Mathurin,IND,B. Mathurin
+PT02M03.00S,2,J. Harden bad pass TURNOVER (3 TO),LAC,J. Harden
+PT02M03.00S,2,T. Haliburton STEAL (1 STL),IND,T. Haliburton
+PT02M00.00S,2,T. Haliburton running finger roll Layup (8 PTS),IND,T. Haliburton
+PT01M44.00S,2,MISS I. Zubac Hook,LAC,I. Zubac
+PT01M42.00S,2,P. Siakam REBOUND (Off:1 Def:6),IND,P. Siakam
+PT01M35.00S,2,MISS P. Siakam driving Layup,IND,P. Siakam
+PT01M33.00S,2,J. Harden REBOUND (Off:0 Def:3),LAC,J. Harden
+PT01M30.00S,2,A. Coffey running DUNK (9 PTS) (J. Harden 7 AST),LAC,A. Coffey
+PT01M17.00S,2,MISS A. Nesmith 27' 3PT,IND,A. Nesmith
+PT01M14.00S,2,J. Harden REBOUND (Off:0 Def:4),LAC,J. Harden
+PT01M05.00S,2,MISS I. Zubac Layup - blocked,LAC,I. Zubac
+PT01M05.00S,2,P. Siakam BLOCK (1 BLK),IND,P. Siakam
+PT01M02.00S,2,M. Turner REBOUND (Off:0 Def:5),IND,M. Turner
+PT00M56.00S,2,M. Turner 24' 3PT step back (17 PTS),IND,M. Turner
+PT00M42.50S,2,MISS J. Harden 27' step back 3PT,LAC,J. Harden
+PT00M39.60S,2,TEAM offensive REBOUND,LAC,
+PT00M39.60S,2,P. Siakam loose ball personal FOUL (1 PF) (Zubac 2 FT),IND,P. Siakam
+PT00M39.60S,2,I. Zubac Free Throw 1 of 2 (9 PTS),LAC,I. Zubac
+PT00M39.60S,2,I. Zubac Free Throw 2 of 2 (10 PTS),LAC,I. Zubac
+PT00M31.50S,2,T. Haliburton 6' driving Hook (10 PTS),IND,T. Haliburton
+PT00M08.40S,2,A. Coffey 16' pullup Jump Shot (11 PTS) (J. Harden 8 AST),LAC,A. Coffey
+PT00M07.50S,2,P. Siakam flagrant-type-1 personal FOUL (2 PF) (Coffey 2 FT),IND,P. Siakam
+PT00M07.50S,2,MISS A. Coffey flagrant Free Throw 1 of 2,LAC,A. Coffey
+PT00M07.50S,2,TEAM offensive REBOUND,LAC,
+PT00M07.50S,2,A. Coffey flagrant Free Throw 2 of 2 (12 PTS),LAC,A. Coffey
+PT00M07.50S,2,SUB out: T. Haliburton,IND,T. Haliburton
+PT00M07.50S,2,SUB in: B. Sheppard,IND,B. Sheppard
+PT00M03.10S,2,A. Nesmith shooting personal FOUL (2 PF) (Harden 2 FT),IND,A. Nesmith
+PT00M03.10S,2,J. Harden Free Throw 1 of 2 (21 PTS),LAC,J. Harden
+PT00M03.10S,2,SUB out: B. Sheppard,IND,B. Sheppard
+PT00M03.10S,2,SUB out: I. Zubac,LAC,I. Zubac
+PT00M03.10S,2,SUB in: T. Haliburton,IND,T. Haliburton
+PT00M03.10S,2,SUB in: D. Jones Jr.,LAC,D. Jones Jr.
+PT00M03.10S,2,J. Harden Free Throw 2 of 2 (22 PTS),LAC,J. Harden
+PT00M00.70S,2,B. Mathurin bad pass TURNOVER (1 TO),IND,B. Mathurin
+PT00M00.70S,2,J. Harden STEAL (1 STL),LAC,J. Harden
+PT00M00.00S,2,MISS J. Harden 38' pullup 3PT,LAC,J. Harden
+PT00M00.00S,2,TEAM offensive REBOUND,LAC,
+PT00M00.00S,2,Period End,,
+PT12M00.00S,3,SUB out: B. Mathurin,IND,B. Mathurin
+PT12M00.00S,3,SUB out: B. Bogdanović,LAC,B. Bogdanović
+PT12M00.00S,3,SUB in: A. Nembhard,IND,A. Nembhard
+PT12M00.00S,3,SUB in: I. Zubac,LAC,I. Zubac
+PT12M00.00S,3,Period Start,,
+PT11M50.00S,3,K. Dunn personal FOUL (1 PF),LAC,K. Dunn
+PT11M45.00S,3,P. Siakam 6' turnaround bank Jump Shot (4 PTS) (M. Turner 3 AST),IND,P. Siakam
+PT11M20.00S,3,MISS I. Zubac Layup,LAC,I. Zubac
+PT11M19.00S,3,M. Turner REBOUND (Off:0 Def:6),IND,M. Turner
+PT11M12.00S,3,D. Jones Jr. shooting personal FOUL (1 PF) (Siakam 2 FT),LAC,D. Jones Jr.
+PT11M12.00S,3,P. Siakam Free Throw 1 of 2 (5 PTS),IND,P. Siakam
+PT11M12.00S,3,MISS P. Siakam Free Throw 2 of 2,IND,P. Siakam
+PT11M11.00S,3,I. Zubac REBOUND (Off:0 Def:4),LAC,I. Zubac
+PT10M50.00S,3,K. Dunn bad pass TURNOVER (1 TO),LAC,K. Dunn
+PT10M50.00S,3,T. Haliburton STEAL (2 STL),IND,T. Haliburton
+PT10M44.00S,3,P. Siakam running Layup (7 PTS) (T. Haliburton 8 AST),IND,P. Siakam
+PT10M25.00S,3,MISS D. Jones Jr. 25' 3PT,LAC,D. Jones Jr.
+PT10M20.00S,3,A. Nembhard REBOUND (Off:1 Def:4),IND,A. Nembhard
+PT10M17.00S,3,MISS P. Siakam running alley-oop DUNK,IND,P. Siakam
+PT10M17.00S,3,K. Dunn REBOUND (Off:0 Def:3),LAC,K. Dunn
+PT10M05.00S,3,MISS J. Harden 10' step back Shot,LAC,J. Harden
+PT10M03.00S,3,K. Dunn REBOUND (Off:1 Def:3),LAC,K. Dunn
+PT10M00.00S,3,I. Zubac floating Jump Shot (12 PTS) (K. Dunn 1 AST),LAC,I. Zubac
+PT09M40.00S,3,MISS M. Turner 27' 3PT,IND,M. Turner
+PT09M38.00S,3,A. Coffey REBOUND (Off:0 Def:2),LAC,A. Coffey
+PT09M31.00S,3,MISS K. Dunn 27' 3PT,LAC,K. Dunn
+PT09M28.00S,3,A. Nesmith REBOUND (Off:1 Def:2),IND,A. Nesmith
+PT09M21.00S,3,A. Nesmith cutting Layup (10 PTS) (T. Haliburton 9 AST),IND,A. Nesmith
+PT09M21.00S,3,LAC Timeout,LAC,
+PT09M21.00S,3,SUB out: D. Jones Jr.,LAC,D. Jones Jr.
+PT09M21.00S,3,SUB out: I. Zubac,LAC,I. Zubac
+PT09M21.00S,3,SUB in: B. Bogdanović,LAC,B. Bogdanović
+PT09M21.00S,3,SUB in: B. Simmons,LAC,B. Simmons
+PT09M02.00S,3,B. Bogdanović 11' pullup Jump Shot (5 PTS),LAC,B. Bogdanović
+PT08M47.00S,3,MISS A. Nesmith 3PT,IND,A. Nesmith
+PT08M44.00S,3,A. Coffey REBOUND (Off:0 Def:3),LAC,A. Coffey
+PT08M35.00S,3,MISS A. Coffey 25' step back 3PT,LAC,A. Coffey
+PT08M31.00S,3,P. Siakam REBOUND (Off:1 Def:7),IND,P. Siakam
+PT08M23.00S,3,MISS M. Turner Layup - blocked,IND,M. Turner
+PT08M23.00S,3,K. Dunn BLOCK (1 BLK),LAC,K. Dunn
+PT08M23.00S,3,TEAM defensive REBOUND,LAC,
+PT08M18.00S,3,MISS A. Coffey cutting Layup - blocked,LAC,A. Coffey
+PT08M18.00S,3,M. Turner BLOCK (2 BLK),IND,M. Turner
+PT08M14.00S,3,A. Nesmith REBOUND (Off:1 Def:3),IND,A. Nesmith
+PT08M02.00S,3,A. Nesmith driving Layup (12 PTS) (T. Haliburton 10 AST),IND,A. Nesmith
+PT07M52.00S,3,B. Simmons driving Layup (2 PTS) (J. Harden 9 AST),LAC,B. Simmons
+PT07M52.00S,3,M. Turner shooting personal FOUL (2 PF) (Simmons 1 FT),IND,M. Turner
+PT07M52.00S,3,B. Simmons Free Throw 1 of 1 (3 PTS),LAC,B. Simmons
+PT07M39.00S,3,T. Haliburton driving finger roll Layup (12 PTS) (M. Turner 4 AST),IND,T. Haliburton
+PT07M39.00S,3,A. Coffey shooting personal FOUL (3 PF) (Haliburton 1 FT),LAC,A. Coffey
+PT07M39.00S,3,SUB out: M. Turner,IND,M. Turner
+PT07M39.00S,3,SUB in: T. Bryant,IND,T. Bryant
+PT07M39.00S,3,T. Haliburton Free Throw 1 of 1 (13 PTS),IND,T. Haliburton
+PT07M23.00S,3,K. Dunn lost ball TURNOVER (2 TO),LAC,K. Dunn
+PT07M23.00S,3,P. Siakam STEAL (1 STL),IND,P. Siakam
+PT07M18.00S,3,P. Siakam lost ball out-of-bounds TURNOVER (1 TO),IND,P. Siakam
+PT07M04.00S,3,MISS B. Simmons 6' driving Layup,LAC,B. Simmons
+PT07M02.00S,3,T. Bryant REBOUND (Off:0 Def:1),IND,T. Bryant
+PT06M57.00S,3,A. Coffey shooting personal FOUL (4 PF) (Siakam 2 FT),LAC,A. Coffey
+PT06M57.00S,3,MISS P. Siakam Free Throw 1 of 2,IND,P. Siakam
+PT06M57.00S,3,TEAM offensive REBOUND,IND,
+PT06M57.00S,3,SUB out: A. Nesmith,IND,A. Nesmith
+PT06M57.00S,3,SUB out: T. Bryant,IND,T. Bryant
+PT06M57.00S,3,SUB out: A. Coffey,LAC,A. Coffey
+PT06M57.00S,3,SUB in: M. Turner,IND,M. Turner
+PT06M57.00S,3,SUB in: B. Mathurin,IND,B. Mathurin
+PT06M57.00S,3,SUB in: I. Zubac,LAC,I. Zubac
+PT06M57.00S,3,P. Siakam Free Throw 2 of 2 (8 PTS),IND,P. Siakam
+PT06M39.00S,3,I. Zubac Layup (14 PTS) (B. Simmons 2 AST),LAC,I. Zubac
+PT06M29.00S,3,T. Haliburton 16' driving floating Jump Shot (15 PTS) (A. Nembhard 1 AST),IND,T. Haliburton
+PT06M15.00S,3,MISS K. Dunn 25' 3PT,LAC,K. Dunn
+PT06M12.00S,3,P. Siakam REBOUND (Off:1 Def:8),IND,P. Siakam
+PT06M04.00S,3,T. Haliburton 26' 3PT pullup (18 PTS),IND,T. Haliburton
+PT05M47.00S,3,J. Harden 24' 3PT step back (25 PTS),LAC,J. Harden
+PT05M29.00S,3,T. Haliburton 25' 3PT pullup (21 PTS),IND,T. Haliburton
+PT05M09.00S,3,B. Simmons alley-oop DUNK (5 PTS) (B. Bogdanović 2 AST),LAC,B. Simmons
+PT04M57.00S,3,T. Haliburton 29' 3PT pullup (24 PTS),IND,T. Haliburton
+PT04M49.00S,3,M. Turner shooting personal FOUL (3 PF) (Simmons 2 FT),IND,M. Turner
+PT04M49.00S,3,B. Simmons Free Throw 1 of 2 (6 PTS),LAC,B. Simmons
+PT04M49.00S,3,IND Timeout,IND,
+PT04M49.00S,3,SUB out: P. Siakam,IND,P. Siakam
+PT04M49.00S,3,SUB in: O. Toppin,IND,O. Toppin
+PT04M49.00S,3,MISS B. Simmons Free Throw 2 of 2,LAC,B. Simmons
+PT04M48.00S,3,O. Toppin REBOUND (Off:2 Def:1),IND,O. Toppin
+PT04M34.00S,3,B. Mathurin bad pass TURNOVER (2 TO),IND,B. Mathurin
+PT04M34.00S,3,B. Simmons STEAL (1 STL),LAC,B. Simmons
+PT04M31.00S,3,MISS B. Simmons running Layup - blocked,LAC,B. Simmons
+PT04M31.00S,3,B. Mathurin BLOCK (1 BLK),IND,B. Mathurin
+PT04M29.00S,3,K. Dunn REBOUND (Off:2 Def:3),LAC,K. Dunn
+PT04M25.00S,3,MISS B. Bogdanović 26' 3PT,LAC,B. Bogdanović
+PT04M23.00S,3,B. Mathurin REBOUND (Off:0 Def:1),IND,B. Mathurin
+PT04M17.00S,3,MISS A. Nembhard 28' 3PT,IND,A. Nembhard
+PT04M13.00S,3,J. Harden REBOUND (Off:0 Def:5),LAC,J. Harden
+PT04M11.00S,3,B. Mathurin personal FOUL (1 PF),IND,B. Mathurin
+PT04M11.00S,3,SUB out: K. Dunn,LAC,K. Dunn
+PT04M11.00S,3,SUB in: M. Beauchamp,LAC,M. Beauchamp
+PT04M04.00S,3,I. Zubac DUNK (16 PTS) (J. Harden 10 AST),LAC,I. Zubac
+PT03M47.00S,3,T. Haliburton bad pass out-of-bounds TURNOVER (1 TO),IND,T. Haliburton
+PT03M37.00S,3,B. Bogdanović driving reverse Layup (7 PTS),LAC,B. Bogdanović
+PT03M35.00S,3,IND Timeout,IND,
+PT03M18.00S,3,B. Mathurin driving Layup (8 PTS) (O. Toppin 5 AST),IND,B. Mathurin
+PT03M08.00S,3,J. Harden bad pass TURNOVER (4 TO),LAC,J. Harden
+PT03M08.00S,3,T. Haliburton STEAL (3 STL),IND,T. Haliburton
+PT03M04.00S,3,O. Toppin alley-oop DUNK (8 PTS) (T. Haliburton 11 AST),IND,O. Toppin
+PT02M48.00S,3,MISS J. Harden 28' pullup 3PT,LAC,J. Harden
+PT02M45.00S,3,O. Toppin REBOUND (Off:2 Def:2),IND,O. Toppin
+PT02M29.00S,3,A. Nembhard 11' pullup Jump Shot (10 PTS),IND,A. Nembhard
+PT02M21.00S,3,B. Bogdanović 26' 3PT  (10 PTS) (J. Harden 11 AST),LAC,B. Bogdanović
+PT02M21.00S,3,B. Mathurin shooting personal FOUL (2 PF) (Bogdanović 1 FT),IND,B. Mathurin
+PT02M21.00S,3,SUB out: B. Mathurin,IND,B. Mathurin
+PT02M21.00S,3,SUB in: B. Sheppard,IND,B. Sheppard
+PT02M21.00S,3,B. Bogdanović Free Throw 1 of 1 (11 PTS),LAC,B. Bogdanović
+PT02M01.00S,3,O. Toppin driving Layup (10 PTS) (T. Haliburton 12 AST),IND,O. Toppin
+PT01M39.00S,3,M. Turner shooting personal FOUL (4 PF) (Zubac 2 FT),IND,M. Turner
+PT01M39.00S,3,I. Zubac Free Throw 1 of 2 (17 PTS),LAC,I. Zubac
+PT01M39.00S,3,SUB out: M. Turner,IND,M. Turner
+PT01M39.00S,3,SUB in: T. Bryant,IND,T. Bryant
+PT01M39.00S,3,I. Zubac Free Throw 2 of 2 (18 PTS),LAC,I. Zubac
+PT01M28.00S,3,MISS A. Nembhard 9' pullup Shot,IND,A. Nembhard
+PT01M24.00S,3,I. Zubac REBOUND (Off:0 Def:5),LAC,I. Zubac
+PT01M17.00S,3,MISS B. Bogdanović 8' turnaround fadeaway Shot,LAC,B. Bogdanović
+PT01M14.00S,3,M. Beauchamp REBOUND (Off:1 Def:0),LAC,M. Beauchamp
+PT01M14.00S,3,M. Beauchamp tip Layup (2 PTS),LAC,M. Beauchamp
+PT00M56.30S,3,A. Nembhard lost ball TURNOVER (2 TO),IND,A. Nembhard
+PT00M56.30S,3,J. Harden STEAL (2 STL),LAC,J. Harden
+PT00M51.10S,3,B. Simmons bad pass out-of-bounds TURNOVER (1 TO),LAC,B. Simmons
+PT00M35.10S,3,M. Beauchamp shooting personal FOUL (1 PF) (Haliburton 3 FT),LAC,M. Beauchamp
+PT00M35.10S,3,TEAM delay-of-game VIOLATION,LAC,
+PT00M35.10S,3,T. Haliburton Free Throw 1 of 3 (25 PTS),IND,T. Haliburton
+PT00M35.10S,3,T. Haliburton Free Throw 2 of 3 (26 PTS),IND,T. Haliburton
+PT00M35.10S,3,T. Haliburton Free Throw 3 of 3 (27 PTS),IND,T. Haliburton
+PT00M34.20S,3,O. Toppin personal FOUL (2 PF) (Harden 2 FT),IND,O. Toppin
+PT00M34.20S,3,MISS J. Harden Free Throw 1 of 2,LAC,J. Harden
+PT00M34.20S,3,TEAM offensive REBOUND,LAC,
+PT00M34.20S,3,SUB out: I. Zubac,LAC,I. Zubac
+PT00M34.20S,3,SUB in: K. Brown,LAC,K. Brown
+PT00M34.20S,3,J. Harden Free Throw 2 of 2 (26 PTS),LAC,J. Harden
+PT00M31.90S,3,MISS T. Haliburton 30' pullup 3PT,IND,T. Haliburton
+PT00M28.00S,3,J. Harden REBOUND (Off:0 Def:6),LAC,J. Harden
+PT00M04.70S,3,LAC shot clock Team TURNOVER,LAC,
+PT00M01.10S,3,MISS O. Toppin 33' pullup 3PT,IND,O. Toppin
+PT00M01.10S,3,TEAM offensive REBOUND,IND,
+PT00M00.00S,3,Period End,,
+PT12M00.00S,4,SUB out: T. Haliburton,IND,T. Haliburton
+PT12M00.00S,4,SUB out: O. Toppin,IND,O. Toppin
+PT12M00.00S,4,SUB out: A. Nembhard,IND,A. Nembhard
+PT12M00.00S,4,SUB out: J. Harden,LAC,J. Harden
+PT12M00.00S,4,SUB in: T. McConnell,IND,T. McConnell
+PT12M00.00S,4,SUB in: B. Mathurin,IND,B. Mathurin
+PT12M00.00S,4,SUB in: P. Siakam,IND,P. Siakam
+PT12M00.00S,4,SUB in: I. Zubac,LAC,I. Zubac
+PT12M00.00S,4,Period Start,,
+PT11M43.00S,4,MISS B. Bogdanović 24' 3PT,LAC,B. Bogdanović
+PT11M41.00S,4,I. Zubac REBOUND (Off:1 Def:5),LAC,I. Zubac
+PT11M40.00S,4,I. Zubac turnaround Hook (20 PTS),LAC,I. Zubac
+PT11M27.00S,4,B. Simmons shooting personal FOUL (1 PF) (Siakam 2 FT),LAC,B. Simmons
+PT11M27.00S,4,P. Siakam Free Throw 1 of 2 (9 PTS),IND,P. Siakam
+PT11M27.00S,4,P. Siakam Free Throw 2 of 2 (10 PTS),IND,P. Siakam
+PT11M12.00S,4,MISS B. Bogdanović 24' 3PT,LAC,B. Bogdanović
+PT11M09.00S,4,T. Bryant REBOUND (Off:0 Def:2),IND,T. Bryant
+PT10M53.00S,4,P. Siakam 11' turnaround Jump Shot (12 PTS),IND,P. Siakam
+PT10M36.00S,4,M. Beauchamp 18' pullup Jump Shot (4 PTS) (B. Simmons 3 AST),LAC,M. Beauchamp
+PT10M22.00S,4,K. Brown personal FOUL (1 PF),LAC,K. Brown
+PT10M17.00S,4,T. Bryant bad pass TURNOVER (1 TO),IND,T. Bryant
+PT10M17.00S,4,B. Simmons STEAL (2 STL),LAC,B. Simmons
+PT10M15.00S,4,B. Simmons driving DUNK (8 PTS),LAC,B. Simmons
+PT09M55.00S,4,T. McConnell driving Layup (11 PTS) (P. Siakam 2 AST),IND,T. McConnell
+PT09M34.00S,4,T. Bryant shooting personal FOUL (2 PF) (Zubac 2 FT),IND,T. Bryant
+PT09M34.00S,4,I. Zubac Free Throw 1 of 2 (21 PTS),LAC,I. Zubac
+PT09M34.00S,4,I. Zubac Free Throw 2 of 2 (22 PTS),LAC,I. Zubac
+PT09M11.00S,4,MISS P. Siakam 26' 3PT,IND,P. Siakam
+PT09M09.00S,4,M. Beauchamp REBOUND (Off:1 Def:1),LAC,M. Beauchamp
+PT08M55.00S,4,MISS M. Beauchamp 19' pullup Shot,LAC,M. Beauchamp
+PT08M51.00S,4,B. Sheppard REBOUND (Off:0 Def:4),IND,B. Sheppard
+PT08M45.00S,4,P. Siakam lost ball TURNOVER (2 TO),IND,P. Siakam
+PT08M45.00S,4,K. Brown STEAL (1 STL),LAC,K. Brown
+PT08M40.00S,4,T. Bryant shooting personal FOUL (3 PF) (Beauchamp 2 FT),IND,T. Bryant
+PT08M40.00S,4,M. Beauchamp Free Throw 1 of 2 (5 PTS),LAC,M. Beauchamp
+PT08M40.00S,4,SUB out: T. Bryant,IND,T. Bryant
+PT08M40.00S,4,SUB out: B. Mathurin,IND,B. Mathurin
+PT08M40.00S,4,SUB in: A. Nesmith,IND,A. Nesmith
+PT08M40.00S,4,SUB in: M. Turner,IND,M. Turner
+PT08M40.00S,4,SUB out: I. Zubac,LAC,I. Zubac
+PT08M40.00S,4,SUB in: J. Harden,LAC,J. Harden
+PT08M40.00S,4,MISS M. Beauchamp Free Throw 2 of 2,LAC,M. Beauchamp
+PT08M37.00S,4,P. Siakam REBOUND (Off:1 Def:9),IND,P. Siakam
+PT08M28.00S,4,T. McConnell bad pass TURNOVER (1 TO),IND,T. McConnell
+PT08M28.00S,4,J. Harden STEAL (3 STL),LAC,J. Harden
+PT08M26.00S,4,MISS K. Brown running Layup - blocked,LAC,K. Brown
+PT08M26.00S,4,T. McConnell BLOCK (1 BLK),IND,T. McConnell
+PT08M25.00S,4,TEAM offensive REBOUND,LAC,
+PT08M25.00S,4,SUB out: M. Beauchamp,LAC,M. Beauchamp
+PT08M25.00S,4,SUB in: K. Dunn,LAC,K. Dunn
+PT08M10.00S,4,LAC Timeout,LAC,
+PT08M10.00S,4,SUB out: B. Sheppard,IND,B. Sheppard
+PT08M10.00S,4,SUB in: A. Nembhard,IND,A. Nembhard
+PT08M09.00S,4,MISS B. Bogdanović 26' 3PT,LAC,B. Bogdanović
+PT08M05.00S,4,P. Siakam REBOUND (Off:1 Def:10),IND,P. Siakam
+PT07M58.00S,4,MISS P. Siakam turnaround Hook,IND,P. Siakam
+PT07M55.00S,4,J. Harden REBOUND (Off:0 Def:7),LAC,J. Harden
+PT07M51.00S,4,J. Harden lost ball out-of-bounds TURNOVER (5 TO),LAC,J. Harden
+PT07M31.00S,4,MISS P. Siakam 18' pullup Shot,IND,P. Siakam
+PT07M27.00S,4,B. Simmons REBOUND (Off:0 Def:3),LAC,B. Simmons
+PT07M21.00S,4,MISS J. Harden 27' 3PT,LAC,J. Harden
+PT07M16.00S,4,A. Nesmith REBOUND (Off:1 Def:4),IND,A. Nesmith
+PT07M11.00S,4,MISS A. Nembhard 10' driving floating bank Shot,IND,A. Nembhard
+PT07M06.00S,4,K. Brown REBOUND (Off:0 Def:1),LAC,K. Brown
+PT06M58.00S,4,MISS K. Dunn 3PT,LAC,K. Dunn
+PT06M56.00S,4,T. McConnell REBOUND (Off:0 Def:1),IND,T. McConnell
+PT06M49.00S,4,MISS M. Turner 27' pullup 3PT,IND,M. Turner
+PT06M46.00S,4,T. McConnell REBOUND (Off:1 Def:1),IND,T. McConnell
+PT06M45.00S,4,MISS A. Nesmith 3PT,IND,A. Nesmith
+PT06M42.00S,4,TEAM offensive REBOUND,IND,
+PT06M42.00S,4,SUB out: P. Siakam,IND,P. Siakam
+PT06M42.00S,4,SUB in: O. Toppin,IND,O. Toppin
+PT06M41.00S,4,A. Nesmith 3PT  (15 PTS) (T. McConnell 1 AST),IND,A. Nesmith
+PT06M31.00S,4,T. McConnell personal FOUL (2 PF),IND,T. McConnell
+PT06M29.00S,4,K. Dunn driving Layup (4 PTS) (B. Simmons 4 AST),LAC,K. Dunn
+PT06M14.00S,4,MISS A. Nesmith cutting Layup - blocked,IND,A. Nesmith
+PT06M14.00S,4,J. Harden BLOCK (2 BLK),LAC,J. Harden
+PT06M13.00S,4,A. Nesmith REBOUND (Off:2 Def:4),IND,A. Nesmith
+PT06M13.00S,4,B. Simmons shooting personal FOUL (2 PF) (Nesmith 2 FT),LAC,B. Simmons
+PT06M13.00S,4,A. Nesmith Free Throw 1 of 2 (16 PTS),IND,A. Nesmith
+PT06M13.00S,4,A. Nesmith Free Throw 2 of 2 (17 PTS),IND,A. Nesmith
+PT05M54.00S,4,J. Harden 13' step back Jump Shot (28 PTS),LAC,J. Harden
+PT05M36.00S,4,K. Dunn personal FOUL (2 PF),LAC,K. Dunn
+PT05M29.00S,4,T. McConnell 7' pullup Jump Shot (13 PTS),IND,T. McConnell
+PT05M06.00S,4,J. Harden 28' 3PT pullup (31 PTS),LAC,J. Harden
+PT04M52.00S,4,A. Nembhard cutting Layup (12 PTS) (A. Nesmith 1 AST),IND,A. Nembhard
+PT04M50.00S,4,LAC Timeout,LAC,
+PT04M50.00S,4,SUB out: T. McConnell,IND,T. McConnell
+PT04M50.00S,4,SUB out: M. Turner,IND,M. Turner
+PT04M50.00S,4,SUB out: J. Harden,LAC,J. Harden
+PT04M50.00S,4,SUB out: K. Dunn,LAC,K. Dunn
+PT04M50.00S,4,SUB out: B. Bogdanović,LAC,B. Bogdanović
+PT04M50.00S,4,SUB out: B. Simmons,LAC,B. Simmons
+PT04M50.00S,4,SUB in: T. Haliburton,IND,T. Haliburton
+PT04M50.00S,4,SUB in: P. Siakam,IND,P. Siakam
+PT04M50.00S,4,SUB in: M. Beauchamp,LAC,M. Beauchamp
+PT04M50.00S,4,SUB in: A. Coffey,LAC,A. Coffey
+PT04M50.00S,4,SUB in: P. Mills,LAC,P. Mills
+PT04M50.00S,4,SUB in: D. Eubanks,LAC,D. Eubanks
+PT04M50.00S,4,SUB out: A. Nembhard,IND,A. Nembhard
+PT04M50.00S,4,SUB in: B. Sheppard,IND,B. Sheppard
+PT04M38.00S,4,P. Mills 3PT  (3 PTS) (M. Beauchamp 1 AST),LAC,P. Mills
+PT04M21.00S,4,M. Beauchamp personal FOUL (2 PF) (Haliburton 2 FT),LAC,M. Beauchamp
+PT04M21.00S,4,T. Haliburton Free Throw 1 of 2 (28 PTS),IND,T. Haliburton
+PT04M21.00S,4,T. Haliburton Free Throw 2 of 2 (29 PTS),IND,T. Haliburton
+PT04M09.00S,4,B. Sheppard shooting personal FOUL (2 PF) (Beauchamp 2 FT),IND,B. Sheppard
+PT04M09.00S,4,MISS M. Beauchamp Free Throw 1 of 2,LAC,M. Beauchamp
+PT04M09.00S,4,TEAM offensive REBOUND,LAC,
+PT04M09.00S,4,M. Beauchamp Free Throw 2 of 2 (6 PTS),LAC,M. Beauchamp
+PT03M45.00S,4,MISS T. Haliburton 31' step back 3PT,IND,T. Haliburton
+PT03M41.00S,4,P. Siakam REBOUND (Off:2 Def:10),IND,P. Siakam
+PT03M31.00S,4,A. Nesmith 19' step back Jump Shot (19 PTS) (O. Toppin 6 AST),IND,A. Nesmith
+PT03M09.00S,4,LAC Timeout,LAC,
+PT03M09.00S,4,SUB out: A. Nesmith,IND,A. Nesmith
+PT03M09.00S,4,SUB out: T. Haliburton,IND,T. Haliburton
+PT03M09.00S,4,SUB out: P. Siakam,IND,P. Siakam
+PT03M09.00S,4,SUB in: T. Bryant,IND,T. Bryant
+PT03M09.00S,4,SUB in: J. Walker,IND,J. Walker
+PT03M09.00S,4,SUB in: J. Furphy,IND,J. Furphy
+PT03M07.00S,4,MISS K. Brown 26' pullup 3PT,LAC,K. Brown
+PT03M04.00S,4,J. Walker REBOUND (Off:0 Def:1),IND,J. Walker
+PT02M42.00S,4,MISS O. Toppin 25' step back 3PT,IND,O. Toppin
+PT02M41.00S,4,TEAM offensive REBOUND,IND,
+PT02M41.00S,4,IND shot clock Team TURNOVER,IND,
+PT02M26.00S,4,J. Furphy shooting personal FOUL (1 PF) (Coffey 2 FT),IND,J. Furphy
+PT02M26.00S,4,A. Coffey Free Throw 1 of 2 (13 PTS),LAC,A. Coffey
+PT02M26.00S,4,A. Coffey Free Throw 2 of 2 (14 PTS),LAC,A. Coffey
+PT02M20.00S,4,P. Mills personal FOUL (1 PF) (Sheppard 2 FT),LAC,P. Mills
+PT02M20.00S,4,B. Sheppard Free Throw 1 of 2 (1 PTS),IND,B. Sheppard
+PT02M20.00S,4,B. Sheppard Free Throw 2 of 2 (2 PTS),IND,B. Sheppard
+PT02M10.00S,4,B. Sheppard personal FOUL (3 PF) (Mills 2 FT),IND,B. Sheppard
+PT02M10.00S,4,P. Mills Free Throw 1 of 2 (4 PTS),LAC,P. Mills
+PT02M10.00S,4,MISS P. Mills Free Throw 2 of 2,LAC,P. Mills
+PT02M08.00S,4,TEAM offensive REBOUND,LAC,
+PT02M04.00S,4,MISS A. Coffey driving Layup,LAC,A. Coffey
+PT02M00.00S,4,D. Eubanks REBOUND (Off:1 Def:0),LAC,D. Eubanks
+PT01M59.00S,4,D. Eubanks Hook (2 PTS),LAC,D. Eubanks
+PT01M43.00S,4,T. Bryant 26' 3PT  (3 PTS) (J. Walker 1 AST),IND,T. Bryant
+PT01M36.00S,4,M. Beauchamp bad pass TURNOVER (1 TO),LAC,M. Beauchamp
+PT01M36.00S,4,T. Bryant STEAL (1 STL),IND,T. Bryant
+PT01M34.00S,4,T. Bryant driving DUNK (5 PTS),IND,T. Bryant
+PT01M26.00S,4,M. Beauchamp 24' 3PT pullup (9 PTS),LAC,M. Beauchamp
+PT01M09.00S,4,T. Bryant Layup (7 PTS) (J. Walker 2 AST),IND,T. Bryant
+PT00M50.00S,4,MISS P. Mills 26' 3PT,LAC,P. Mills
+PT00M45.90S,4,O. Toppin REBOUND (Off:2 Def:3),IND,O. Toppin
+PT00M23.20S,4,IND shot clock Team TURNOVER,IND,
+PT00M10.00S,4,MISS D. Eubanks 3PT,LAC,D. Eubanks
+PT00M08.90S,4,M. Beauchamp REBOUND (Off:2 Def:1),LAC,M. Beauchamp
+PT00M08.00S,4,MISS M. Beauchamp tip Layup,LAC,M. Beauchamp
+PT00M08.00S,4,T. Bryant REBOUND (Off:0 Def:3),IND,T. Bryant
+PT00M00.00S,4,Period End,,
+PT00M00.00S,4,Game End,,
